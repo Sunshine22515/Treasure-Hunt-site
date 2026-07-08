@@ -1,18 +1,41 @@
 "use strict";
 /// <reference types="leaflet" />
+// Coordenadas centrais de Maribor
 const maribor = L.latLng(46.5547, 15.6459);
+// Limites da área permitida (sudoeste e nordeste)
 const bounds = L.latLngBounds(L.latLng(46.54641, 15.61363), L.latLng(46.56535, 15.66341));
+// Cria o mapa, restrito à área de Maribor
 const map = L.map("map", {
     maxBounds: bounds,
     maxBoundsViscosity: 1.0
 }).setView(maribor, 14);
-// Calcula o zoom mínimo baseado no tamanho real da área
+// Calcula e aplica o zoom mínimo baseado no tamanho da área
 const minZoom = map.getBoundsZoom(bounds);
 map.setMinZoom(minZoom);
+// Camada de tiles do OpenStreetMap
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     maxZoom: 19,
     attribution: "© OpenStreetMap"
 }).addTo(map);
+// --- Localização do jogador em tempo real (GPS) ---
+let userMarker = null;
+let userCircle = null;
+map.locate({ watch: true, setView: false, enableHighAccuracy: true });
+map.on("locationfound", (e) => {
+    if (userMarker) {
+        userMarker.setLatLng(e.latlng);
+        userCircle?.setLatLng(e.latlng).setRadius(e.accuracy);
+    }
+    else {
+        userMarker = L.marker(e.latlng)
+            .addTo(map)
+            .bindPopup("Estás aqui!");
+        userCircle = L.circle(e.latlng, { radius: e.accuracy }).addTo(map);
+    }
+});
+map.on("locationerror", (e) => {
+    console.error("Erro de localização:", e.message);
+});
 //mapa ^^^npx tsc
 function handleLogin() {
     // Placeholder — mais tarde isto vai chamar um backend/API real.
