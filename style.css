@@ -5,7 +5,10 @@ html, body {
     width: 100%;
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
+    font-size: 16px;
 }
+
+/* ==================== BARRA DE TOPO ==================== */
 
 .topo-container {
     display: flex;
@@ -32,7 +35,8 @@ html, body {
     font-weight: bold;
 }
 
-/* Mapa responsivo */
+/* ==================== MAPA ==================== */
+
 #map {
     height: 500px;
     width: 90%;
@@ -42,22 +46,139 @@ html, body {
     border-radius: 8px;
 }
 
+/* ==================== BOTÕES + LEADERBOARD ==================== */
+
+.secao-inferior {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 50px;
+    width: 90%;
+    max-width: 700px;
+    margin: 10px auto 0;
+}
+
 .botoes-inferiores {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: flex-start;
     gap: 12px;
-    margin-top: 10px;
-    flex-wrap: wrap;
-    padding: 0 10px;
 }
 
 .botoes-inferiores button {
     padding: 8px 20px;
     cursor: pointer;
     font-weight: bold;
+    width: 250px;
+    white-space: nowrap;
 }
 
-/* Ajustes para telas pequenas (telemóveis) */
+.leaderboard {
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 15px 20px;
+    flex: 1;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+.leaderboard h3 {
+    margin-top: 0;
+    text-align: center;
+    color: #333;
+}
+
+.leaderboard table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+}
+
+.leaderboard th {
+    text-align: left;
+    padding: 8px 10px;
+    border-bottom: 2px solid #ddd;
+    color: #666;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+.leaderboard td {
+    padding: 8px 10px;
+}
+
+.leaderboard tbody tr:nth-child(even) {
+    background-color: #f7f7f7;
+}
+
+.leaderboard tbody tr.top1 {
+    background-color: #fff8dc;
+    font-weight: bold;
+}
+
+.leaderboard tbody tr:hover {
+    background-color: #eef;
+}
+
+/* ==================== PÁGINAS SECUNDÁRIAS (login, quest, achievements, etc.) ==================== */
+
+.pagina-secundaria {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+.pagina-secundaria h1 {
+    margin-top: 0;
+}
+
+.pagina-secundaria form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.pagina-secundaria input {
+    padding: 10px;
+    font-size: 16px;
+}
+
+.pagina-secundaria button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.pagina-secundaria a {
+    display: inline-block;
+    margin-top: 10px;
+    color: #333;
+    text-decoration: none;
+}
+
+.pagina-secundaria a:hover {
+    text-decoration: underline;
+}
+
+.pagina-secundaria ul {
+    padding-left: 20px;
+}
+
+.quest-item {
+    border-bottom: 1px solid #eee;
+    padding: 10px 0;
+}
+
+.quest-item:last-child {
+    border-bottom: none;
+}
+
+/* ==================== RESPONSIVO (TELEMÓVEIS) ==================== */
+
 @media (max-width: 600px) {
     #map {
         width: 95%;
@@ -74,5 +195,20 @@ html, body {
     .topo-container button {
         padding: 6px 12px;
         font-size: 13px;
+    }
+
+    .secao-inferior {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .botoes-inferiores button {
+        width: 100%;
+        max-width: 300px;
+    }
+
+    .pagina-secundaria {
+        margin: 20px auto;
+        width: 90%;
     }
 }

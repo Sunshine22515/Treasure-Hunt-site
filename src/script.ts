@@ -1,31 +1,28 @@
 /// <reference types="leaflet" />
 
-// Coordenadas centrais de Maribor
+// ==================== MAPA ====================
+
 const maribor = L.latLng(46.5547, 15.6459);
 
-// Limites da área permitida (sudoeste e nordeste)
 const bounds = L.latLngBounds(
     L.latLng(46.54641, 15.61363),
     L.latLng(46.56535, 15.66341)
 );
 
-// Cria o mapa, restrito à área de Maribor
 const map = L.map("map", {
     maxBounds: bounds,
     maxBoundsViscosity: 1.0
 }).setView(maribor, 14);
 
-// Calcula e aplica o zoom mínimo baseado no tamanho da área
 const minZoom = map.getBoundsZoom(bounds);
 map.setMinZoom(minZoom);
 
-// Camada de tiles do OpenStreetMap
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     maxZoom: 19,
     attribution: "© OpenStreetMap"
 }).addTo(map);
 
-// --- Localização do jogador em tempo real (GPS) ---
+// ==================== GPS ====================
 
 let userMarker: L.Marker | null = null;
 let userCircle: L.Circle | null = null;
@@ -37,76 +34,36 @@ map.on("locationfound", (e: L.LocationEvent) => {
         userMarker.setLatLng(e.latlng);
         userCircle?.setLatLng(e.latlng).setRadius(e.accuracy);
     } else {
-        userMarker = L.marker(e.latlng)
-            .addTo(map)
-            .bindPopup("Estás aqui!");
+        userMarker = L.marker(e.latlng).addTo(map).bindPopup("You're here!");
         userCircle = L.circle(e.latlng, { radius: e.accuracy }).addTo(map);
     }
 });
 
 map.on("locationerror", (e: L.ErrorEvent) => {
-    console.error("Erro de localização:", e.message);
+    console.error("Location Error:", e.message);
 });
- //mapa ^^^npx tsc
 
+// ==================== NAVEGAÇÃO ====================
 
-function handleLogin(): void {
-  // Placeholder — mais tarde isto vai chamar um backend/API real.
-  const name = prompt("Nome de utilizador:");
-  if (!name) return;
+document.querySelector<HTMLButtonElement>(".login")
+    ?.addEventListener("click", () => window.location.href = "login.html");
 
-  player.name = name;
-  player.loggedIn = true;
-  alert(`Bem-vindo, ${player.name}!`);
-}
+document.querySelector<HTMLButtonElement>(".sign-in")
+    ?.addEventListener("click", () => window.location.href = "sign-in.html");
 
-function handleSignIn(): void {
-  // Placeholder para registo de nova conta.
-  const name = prompt("Escolhe um nome para a tua conta:");
-  if (!name) return;
+document.querySelector<HTMLButtonElement>(".quest")
+    ?.addEventListener("click", () => window.location.href = "quest.html");
 
-  player.name = name;
-  player.loggedIn = true;
-  alert(`Conta criada! Bem-vindo, ${player.name}!`);
-}
+document.querySelector<HTMLButtonElement>(".achievements")
+    ?.addEventListener("click", () => window.location.href = "achievements.html");
 
-interface Player {
-  name: string;
-  coins: number;
-  loggedIn: boolean;
-  achievements: String [];
-}
+document.querySelector<HTMLButtonElement>(".extra-points")
+    ?.addEventListener("click", () => window.location.href = "extra-points.html");
 
-interface Shop {
-    id: String;
-    name: String;
-    price: number;
-}
+// ==================== ATUALIZAR DISPLAY DE COINS ====================
 
-let player: Player = {
-  name: "Guest",
-  coins: 0,
-  loggedIn: false,
-  achievements: [],
-};
-
-const shopItems: Shop[] = [
-    {id: "compass", name: "compass", price: 50},
-    {id: "TresureDetector", name: "Tresure Detector", price: 50},
-    {id: "SkipRidlle", name: "Skip Ridlle", price: 70},
-];
-
-function unlockAchievement(name: string): void {
-  if (player.achievements.includes(name)) return;
-
-  player.achievements.push(name);
-  alert(`Achievement desbloqueado: ${name}`);
-}
-
-function openAchievements(): void {
-  if (player.achievements.length === 0) {
-    alert("Ainda não tens achievements. Continua a explorar!");
-    return;
-  }
-  alert(`Achievements:\n${player.achievements.join("\n")}`);
+const coinsDisplay = document.getElementById("coins-display");
+if (coinsDisplay) {
+    const savedCoins = localStorage.getItem("coins") ?? "0";
+    coinsDisplay.textContent = `Coins: ${savedCoins}`;
 }
