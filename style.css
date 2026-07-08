@@ -1,5 +1,8 @@
 html, body {
-    margin: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 5px;
+    margin-bottom: 50px;
     padding: 0;
     height: 100%;
     width: 100%;
@@ -50,12 +53,13 @@ html, body {
 
 .secao-inferior {
     display: flex;
-    flex-direction: row;
-    align-items: flex-start;
+    flex-direction: column;
+    align-items: center;
     gap: 50px;
     width: 90%;
     max-width: 700px;
     margin: 10px auto 0;
+    margin-bottom: 15px;
 }
 
 .botoes-inferiores {
@@ -66,10 +70,10 @@ html, body {
 }
 
 .botoes-inferiores button {
-    padding: 8px 20px;
+    padding: 25px 46px;
     cursor: pointer;
     font-weight: bold;
-    width: 250px;
+    width: 700px;
     white-space: nowrap;
 }
 
@@ -80,6 +84,8 @@ html, body {
     padding: 15px 20px;
     flex: 1;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+    width: 650px;
+    position: center;
 }
 
 .leaderboard h3 {
@@ -91,7 +97,7 @@ html, body {
 .leaderboard table {
     width: 100%;
     border-collapse: collapse;
-    font-size: 14px;
+    font-size: 20px;
 }
 
 .leaderboard th {

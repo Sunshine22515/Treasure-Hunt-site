@@ -22,6 +22,57 @@ L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     attribution: "© OpenStreetMap"
 }).addTo(map);
 
+// ==================== PONTOS DE PARAGEM ====================
+
+interface Waypoint {
+    id: string;
+    name: string;
+    lat: number;
+    lng: number;
+    clue: string;
+}
+
+const waypoints: Waypoint[] = [
+    {
+        id: "wp1",
+        name: "Lent",
+        lat: 46.557584,
+        lng: 15.645282,
+        clue: "Onde o rio abraça a cidade mais velha..."
+    },
+    {
+        id: "wp2",
+        name: "Praça Principal",
+        lat: 46.5583,
+        lng: 15.6467,
+        clue: "No coração de Maribor, onde tudo se encontra."
+    },
+    {
+        id: "wp3",
+        name: "Castelo de Maribor",
+        lat: 46.5563,
+        lng: 15.6459,
+        clue: "Paredes antigas guardam segredos de reis passados."
+    }
+    // Adiciona mais pontos aqui conforme precisares
+];
+
+// Ícone customizado para os pontos de paragem (opcional, mas fica melhor visualmente)
+const waypointIcon = L.icon({
+    iconUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png",
+    shadowUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png",
+    iconSize: [25, 41],
+    iconAnchor: [12, 41],
+    popupAnchor: [1, -34],
+    shadowSize: [41, 41]
+});
+
+waypoints.forEach((wp) => {
+    L.marker([wp.lat, wp.lng], { icon: waypointIcon })
+        .addTo(map)
+        .bindPopup(`<b>${wp.name}</b><br>${wp.clue}`);
+})
+
 // ==================== GPS ====================
 
 let userMarker: L.Marker | null = null;
