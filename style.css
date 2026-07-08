@@ -205,16 +205,24 @@ html, body {
 
     .secao-inferior {
         flex-direction: column;
+        align-items: center;
         gap: 20px;
+        width: 95%;           /* mesma largura do mapa */
+        max-width: none;      /* remove o limite antigo de 700px */
+    }
+
+    .botoes-inferiores {
+        width: 100%;
+        align-items: stretch;  /* faz os botões esticarem até a borda */
     }
 
     .botoes-inferiores button {
-        width: 100%;
-        max-width: 300px;
+        width: 100%;            /* ocupa toda a largura disponível */
+        max-width: none;        /* remove o limite de 300px */
     }
 
-    .pagina-secundaria {
-        margin: 20px auto;
-        width: 90%;
+    .leaderboard {
+        width: 100%;
+        max-width: none;
     }
 }
