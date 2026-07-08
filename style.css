@@ -7,7 +7,6 @@ html, body {
     background-color: #f4f4f4;
 }
 
-/* Barra de topo: coins à esquerda, login/sign-in à direita */
 .topo-container {
     display: flex;
     justify-content: space-between;
@@ -15,6 +14,8 @@ html, body {
     padding: 10px 20px;
     background: white;
     border-bottom: 1px solid #ccc;
+    flex-wrap: wrap;
+    gap: 8px;
 }
 
 .auth-botoes {
@@ -31,25 +32,47 @@ html, body {
     font-weight: bold;
 }
 
-/* Mapa centralizado, tamanho fixo */
+/* Mapa responsivo */
 #map {
     height: 500px;
-    width: 700px;
+    width: 90%;
+    max-width: 700px;
     margin: 30px auto;
     border: 2px solid #333;
     border-radius: 8px;
 }
 
-/* Botões abaixo do mapa, centralizados */
 .botoes-inferiores {
     display: flex;
     justify-content: center;
     gap: 12px;
     margin-top: 10px;
+    flex-wrap: wrap;
+    padding: 0 10px;
 }
 
 .botoes-inferiores button {
     padding: 8px 20px;
     cursor: pointer;
     font-weight: bold;
+}
+
+/* Ajustes para telas pequenas (telemóveis) */
+@media (max-width: 600px) {
+    #map {
+        width: 95%;
+        height: 400px;
+        margin: 15px auto;
+    }
+
+    .topo-container {
+        padding: 8px 10px;
+        font-size: 14px;
+    }
+
+    .botoes-inferiores button,
+    .topo-container button {
+        padding: 6px 12px;
+        font-size: 13px;
+    }
 }
