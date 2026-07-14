@@ -32,7 +32,7 @@ interface Waypoint {
     clue: string;
 }
 
-const WAYPOINT_RADIUS_METERS = 5000;
+const WAYPOINT_RADIUS_METERS = 3000;
 const waypoints: Waypoint[] = [
     {
         id: "wp1",
@@ -40,7 +40,7 @@ const waypoints: Waypoint[] = [
         lat: 46.557584,
         lng: 15.645282,
         clue: "Where the river embraces the oldest part of the city..."
-    },
+    },/*
     {
         id: "wp2",
         name: "Main Square",
@@ -54,7 +54,7 @@ const waypoints: Waypoint[] = [
         lat: 46.5563,
         lng: 15.6459,
         clue: "Ancient walls keep the secrets of kings long gone."
-    }
+    }*/
     // Add more points here as needed.
 ];
 

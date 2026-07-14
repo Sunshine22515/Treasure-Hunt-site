@@ -13,7 +13,7 @@ L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     maxZoom: 19,
     attribution: "(c) OpenStreetMap"
 }).addTo(map);
-const WAYPOINT_RADIUS_METERS = 5000;
+const WAYPOINT_RADIUS_METERS = 3000;
 const waypoints = [
     {
         id: "wp1",
@@ -21,7 +21,7 @@ const waypoints = [
         lat: 46.557584,
         lng: 15.645282,
         clue: "Where the river embraces the oldest part of the city..."
-    },
+    }, /*
     {
         id: "wp2",
         name: "Main Square",
@@ -35,7 +35,7 @@ const waypoints = [
         lat: 46.5563,
         lng: 15.6459,
         clue: "Ancient walls keep the secrets of kings long gone."
-    }
+    }*/
     // Add more points here as needed.
 ];
 // Custom icons using the site palette.
