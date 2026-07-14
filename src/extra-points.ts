@@ -1,2 +1,2 @@
-// Placeholder — implementar lógica real depois
+// Placeholder: implement the real logic later.
 console.log("Extra Points page loaded");

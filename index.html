@@ -6,51 +6,48 @@
     <title>Treasure Hunt</title>
 
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="style.css?v=15" />
 </head>
 <body>
 
-    <div class="topo-container">
-        <div class="auth-botoes">
-            <button class="login">LOGIN</button>
-            <button class="sign-in">SIGN-IN</button>
+    <div class="top-bar">
+        <a class="brand-logo" href="index.html" aria-label="Treasure Hunt home">
+            <img src="logo.webp" alt="SiMO Experience">
+        </a>
+        <div class="auth-buttons">
+            <button class="login" type="button">LOGIN</button>
+            <button class="sign-in" type="button">SIGN IN</button>
+            <button class="logout" type="button">LOGOUT</button>
         </div>
     </div>
 
     <div id="map"></div>
 
-    <div class="secao-inferior">
-        <div class="botoes-inferiores">
+    <div class="bottom-section">
+        <div class="bottom-buttons">
             <button class="achievements">ACHIEVEMENTS</button>
             <button class="quest">QUEST</button>
             <button class="extra-points">EXTRA POINTS</button>
         </div>
 
         <div class="leaderboard">
-            <h3>🏆 Leaderboard</h3>
+            <h3>Trophy Leaderboard</h3>
             <table>
+                <colgroup>
+                    <col class="rank-col">
+                    <col class="player-col">
+                    <col class="points-col">
+                </colgroup>
                 <thead>
                     <tr>
                         <th>#</th>
-                        <th>Jogador</th>
-                        <th>Pontos</th>
+                        <th>Player</th>
+                        <th>Points</th>
                     </tr>
                 </thead>
-                <tbody>
+                <tbody id="leaderboard-body">
                     <tr class="top1">
-                        <td>1</td>
-                        <td>Jogador1</td>
-                        <td>120</td>
-                    </tr>
-                    <tr>
-                        <td>2</td>
-                        <td>Jogador2</td>
-                        <td>95</td>
-                    </tr>
-                    <tr>
-                        <td>3</td>
-                        <td>Jogador3</td>
-                        <td>80</td>
+                        <td colspan="3">Loading...</td>
                     </tr>
                 </tbody>
             </table>
@@ -58,6 +55,7 @@
     </div>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    <script src="dist/script.js"></script>
+    <script src="dist/gameData.js"></script>
+    <script src="dist/script.js?v=3"></script>
 </body>
 </html>

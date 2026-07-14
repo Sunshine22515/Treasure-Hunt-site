@@ -1,0 +1,1138 @@
+[Tue Jul 14 08:40:46 2026] PHP 8.0.30 Development Server (http://127.0.0.1:8020) started
+[Tue Jul 14 08:40:56 2026] 127.0.0.1:51122 Accepted
+[Tue Jul 14 08:40:56 2026] 127.0.0.1:51122 [200]: GET /index.html
+[Tue Jul 14 08:40:56 2026] 127.0.0.1:51122 Closing
+[Tue Jul 14 08:41:11 2026] 127.0.0.1:61804 Accepted
+[Tue Jul 14 08:41:11 2026] 127.0.0.1:61804 [200]: GET /index.html
+[Tue Jul 14 08:41:11 2026] 127.0.0.1:61804 Closing
+[Tue Jul 14 08:41:11 2026] 127.0.0.1:54791 Accepted
+[Tue Jul 14 08:41:11 2026] 127.0.0.1:59909 Accepted
+[Tue Jul 14 08:41:11 2026] 127.0.0.1:54791 [200]: GET /style.css?v=9
+[Tue Jul 14 08:41:11 2026] 127.0.0.1:59909 [200]: GET /logo.webp
+[Tue Jul 14 08:41:11 2026] 127.0.0.1:54791 Closing
+[Tue Jul 14 08:41:11 2026] 127.0.0.1:59909 Closing
+[Tue Jul 14 08:41:11 2026] 127.0.0.1:57138 Accepted
+[Tue Jul 14 08:41:11 2026] 127.0.0.1:57138 [200]: GET /dist/script.js?v=3
+[Tue Jul 14 08:41:11 2026] 127.0.0.1:57138 Closing
+[Tue Jul 14 08:41:11 2026] 127.0.0.1:54059 Accepted
+[Tue Jul 14 08:41:11 2026] 127.0.0.1:54059 [200]: GET /api/leaderboard.php
+[Tue Jul 14 08:41:11 2026] 127.0.0.1:54059 Closing
+[Tue Jul 14 08:41:11 2026] 127.0.0.1:51914 Accepted
+[Tue Jul 14 08:41:11 2026] 127.0.0.1:51914 [404]: GET /favicon.ico - No such file or directory
+[Tue Jul 14 08:41:11 2026] 127.0.0.1:51914 Closing
+[Tue Jul 14 08:41:18 2026] 127.0.0.1:54743 Accepted
+[Tue Jul 14 08:41:18 2026] 127.0.0.1:54743 [200]: GET /login.html
+[Tue Jul 14 08:41:18 2026] 127.0.0.1:54743 Closing
+[Tue Jul 14 08:41:18 2026] 127.0.0.1:58944 Accepted
+[Tue Jul 14 08:41:18 2026] 127.0.0.1:58325 Accepted
+[Tue Jul 14 08:41:18 2026] 127.0.0.1:58944 [200]: GET /style.css?v=9
+[Tue Jul 14 08:41:18 2026] 127.0.0.1:58325 [200]: GET /dist/login.js
+[Tue Jul 14 08:41:18 2026] 127.0.0.1:58944 Closing
+[Tue Jul 14 08:41:18 2026] 127.0.0.1:58325 Closing
+[Tue Jul 14 08:41:26 2026] 127.0.0.1:49687 Accepted
+[Tue Jul 14 08:41:26 2026] 127.0.0.1:49687 [200]: POST /api/login.php
+[Tue Jul 14 08:41:26 2026] 127.0.0.1:49687 Closing
+[Tue Jul 14 08:41:26 2026] 127.0.0.1:51934 Accepted
+[Tue Jul 14 08:41:26 2026] 127.0.0.1:51934 [200]: GET /index.html
+[Tue Jul 14 08:41:26 2026] 127.0.0.1:51934 Closing
+[Tue Jul 14 08:41:26 2026] 127.0.0.1:50643 Accepted
+[Tue Jul 14 08:41:26 2026] 127.0.0.1:50643 [200]: GET /style.css?v=9
+[Tue Jul 14 08:41:26 2026] 127.0.0.1:65060 Accepted
+[Tue Jul 14 08:41:26 2026] 127.0.0.1:56808 Accepted
+[Tue Jul 14 08:41:26 2026] 127.0.0.1:65060 [200]: GET /logo.webp
+[Tue Jul 14 08:41:26 2026] 127.0.0.1:56808 [200]: GET /dist/script.js?v=3
+[Tue Jul 14 08:41:26 2026] 127.0.0.1:50643 Closing
+[Tue Jul 14 08:41:26 2026] 127.0.0.1:65060 Closing
+[Tue Jul 14 08:41:26 2026] 127.0.0.1:56808 Closing
+[Tue Jul 14 08:41:26 2026] 127.0.0.1:63305 Accepted
+[Tue Jul 14 08:41:26 2026] 127.0.0.1:63305 [200]: GET /api/leaderboard.php
+[Tue Jul 14 08:41:26 2026] 127.0.0.1:63305 Closing
+[Tue Jul 14 08:41:30 2026] 127.0.0.1:54986 Accepted
+[Tue Jul 14 08:41:30 2026] 127.0.0.1:54986 [200]: GET /index.html
+[Tue Jul 14 08:41:30 2026] 127.0.0.1:54986 Closing
+[Tue Jul 14 08:41:30 2026] 127.0.0.1:51501 Accepted
+[Tue Jul 14 08:41:30 2026] 127.0.0.1:53891 Accepted
+[Tue Jul 14 08:41:30 2026] 127.0.0.1:51501 [200]: GET /style.css?v=9
+[Tue Jul 14 08:41:30 2026] 127.0.0.1:52915 Accepted
+[Tue Jul 14 08:41:30 2026] 127.0.0.1:53891 [200]: GET /logo.webp
+[Tue Jul 14 08:41:30 2026] 127.0.0.1:52915 [200]: GET /dist/script.js?v=3
+[Tue Jul 14 08:41:30 2026] 127.0.0.1:51501 Closing
+[Tue Jul 14 08:41:30 2026] 127.0.0.1:53891 Closing
+[Tue Jul 14 08:41:30 2026] 127.0.0.1:52915 Closing
+[Tue Jul 14 08:41:30 2026] 127.0.0.1:64221 Accepted
+[Tue Jul 14 08:41:30 2026] 127.0.0.1:64221 [200]: GET /api/leaderboard.php
+[Tue Jul 14 08:41:30 2026] 127.0.0.1:64221 Closing
+[Tue Jul 14 08:41:31 2026] 127.0.0.1:50148 Accepted
+[Tue Jul 14 08:41:31 2026] 127.0.0.1:50148 [200]: GET /sign-in.html
+[Tue Jul 14 08:41:31 2026] 127.0.0.1:50148 Closing
+[Tue Jul 14 08:41:31 2026] 127.0.0.1:50313 Accepted
+[Tue Jul 14 08:41:31 2026] 127.0.0.1:57200 Accepted
+[Tue Jul 14 08:41:31 2026] 127.0.0.1:50313 [200]: GET /style.css?v=9
+[Tue Jul 14 08:41:31 2026] 127.0.0.1:57200 [200]: GET /dist/sign-in.js
+[Tue Jul 14 08:41:31 2026] 127.0.0.1:50313 Closing
+[Tue Jul 14 08:41:31 2026] 127.0.0.1:57200 Closing
+[Tue Jul 14 08:41:36 2026] 127.0.0.1:54203 Accepted
+[Tue Jul 14 08:41:36 2026] 127.0.0.1:54203 [200]: GET /index.html
+[Tue Jul 14 08:41:36 2026] 127.0.0.1:54203 Closing
+[Tue Jul 14 08:41:36 2026] 127.0.0.1:51960 Accepted
+[Tue Jul 14 08:41:36 2026] 127.0.0.1:51960 [200]: GET /style.css?v=9
+[Tue Jul 14 08:41:36 2026] 127.0.0.1:65439 Accepted
+[Tue Jul 14 08:41:36 2026] 127.0.0.1:51916 Accepted
+[Tue Jul 14 08:41:36 2026] 127.0.0.1:65439 [200]: GET /logo.webp
+[Tue Jul 14 08:41:36 2026] 127.0.0.1:51916 [200]: GET /dist/script.js?v=3
+[Tue Jul 14 08:41:36 2026] 127.0.0.1:51960 Closing
+[Tue Jul 14 08:41:36 2026] 127.0.0.1:65439 Closing
+[Tue Jul 14 08:41:36 2026] 127.0.0.1:51916 Closing
+[Tue Jul 14 08:41:36 2026] 127.0.0.1:64073 Accepted
+[Tue Jul 14 08:41:36 2026] 127.0.0.1:64073 [200]: GET /api/leaderboard.php
+[Tue Jul 14 08:41:36 2026] 127.0.0.1:64073 Closing
+[Tue Jul 14 08:42:15 2026] 127.0.0.1:53604 Accepted
+[Tue Jul 14 08:42:15 2026] 127.0.0.1:53604 [200]: GET /style.css?v=9
+[Tue Jul 14 08:42:15 2026] 127.0.0.1:53604 Closing
+[Tue Jul 14 08:42:15 2026] 127.0.0.1:60538 Accepted
+[Tue Jul 14 08:42:15 2026] 127.0.0.1:60538 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:42:15 2026] 127.0.0.1:60538 Closing
+[Tue Jul 14 08:42:16 2026] 127.0.0.1:54838 Accepted
+[Tue Jul 14 08:42:16 2026] 127.0.0.1:54838 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:42:16 2026] 127.0.0.1:54838 Closing
+[Tue Jul 14 08:45:12 2026] 127.0.0.1:51486 Accepted
+[Tue Jul 14 08:45:12 2026] 127.0.0.1:51486 [200]: GET /index.html
+[Tue Jul 14 08:45:12 2026] 127.0.0.1:51486 Closing
+[Tue Jul 14 08:45:12 2026] 127.0.0.1:51488 Accepted
+[Tue Jul 14 08:45:12 2026] 127.0.0.1:51488 [200]: GET /style.css?v=10
+[Tue Jul 14 08:45:12 2026] 127.0.0.1:51488 Closing
+[Tue Jul 14 08:45:34 2026] 127.0.0.1:55260 Accepted
+[Tue Jul 14 08:45:34 2026] 127.0.0.1:55260 [200]: GET /index.html?reload=10
+[Tue Jul 14 08:45:34 2026] 127.0.0.1:55260 Closing
+[Tue Jul 14 08:45:34 2026] 127.0.0.1:58493 Accepted
+[Tue Jul 14 08:45:34 2026] 127.0.0.1:56781 Accepted
+[Tue Jul 14 08:45:34 2026] 127.0.0.1:58493 [200]: GET /style.css?v=10
+[Tue Jul 14 08:45:34 2026] 127.0.0.1:58493 Closing
+[Tue Jul 14 08:45:34 2026] 127.0.0.1:56781 [200]: GET /logo.webp
+[Tue Jul 14 08:45:34 2026] 127.0.0.1:56781 Closing
+[Tue Jul 14 08:45:34 2026] 127.0.0.1:60305 Accepted
+[Tue Jul 14 08:45:34 2026] 127.0.0.1:60305 [200]: GET /dist/script.js?v=3
+[Tue Jul 14 08:45:34 2026] 127.0.0.1:60305 Closing
+[Tue Jul 14 08:45:34 2026] 127.0.0.1:60806 Accepted
+[Tue Jul 14 08:45:34 2026] 127.0.0.1:60806 [200]: GET /api/leaderboard.php
+[Tue Jul 14 08:45:34 2026] 127.0.0.1:60806 Closing
+[Tue Jul 14 08:45:40 2026] 127.0.0.1:65519 Accepted
+[Tue Jul 14 08:45:40 2026] 127.0.0.1:65519 [200]: GET /style.css?v=10
+[Tue Jul 14 08:45:40 2026] 127.0.0.1:65519 Closing
+[Tue Jul 14 08:45:40 2026] 127.0.0.1:58607 Accepted
+[Tue Jul 14 08:45:40 2026] 127.0.0.1:58607 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:45:40 2026] 127.0.0.1:58607 Closing
+[Tue Jul 14 08:45:40 2026] 127.0.0.1:51474 Accepted
+[Tue Jul 14 08:45:40 2026] 127.0.0.1:51474 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:45:40 2026] 127.0.0.1:51474 Closing
+[Tue Jul 14 08:45:47 2026] 127.0.0.1:56237 Accepted
+[Tue Jul 14 08:45:47 2026] 127.0.0.1:56237 [200]: GET /login.html
+[Tue Jul 14 08:45:47 2026] 127.0.0.1:56237 Closing
+[Tue Jul 14 08:45:47 2026] 127.0.0.1:65145 Accepted
+[Tue Jul 14 08:45:47 2026] 127.0.0.1:57764 Accepted
+[Tue Jul 14 08:45:47 2026] 127.0.0.1:65145 [200]: GET /style.css?v=10
+[Tue Jul 14 08:45:47 2026] 127.0.0.1:57764 [200]: GET /dist/login.js
+[Tue Jul 14 08:45:47 2026] 127.0.0.1:65145 Closing
+[Tue Jul 14 08:45:47 2026] 127.0.0.1:57764 Closing
+[Tue Jul 14 08:45:47 2026] 127.0.0.1:58452 Accepted
+[Tue Jul 14 08:45:47 2026] 127.0.0.1:58452 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:45:47 2026] 127.0.0.1:58452 Closing
+[Tue Jul 14 08:45:47 2026] 127.0.0.1:58142 Accepted
+[Tue Jul 14 08:45:47 2026] 127.0.0.1:58142 [200]: GET /dist/login.js.map
+[Tue Jul 14 08:45:47 2026] 127.0.0.1:58142 Closing
+[Tue Jul 14 08:45:47 2026] 127.0.0.1:56148 Accepted
+[Tue Jul 14 08:45:47 2026] 127.0.0.1:56148 [200]: GET /src/login.ts
+[Tue Jul 14 08:45:47 2026] 127.0.0.1:56148 Closing
+[Tue Jul 14 08:45:59 2026] 127.0.0.1:54585 Accepted
+[Tue Jul 14 08:46:05 2026] 127.0.0.1:54585 [200]: GET /index.html
+[Tue Jul 14 08:46:05 2026] 127.0.0.1:54585 Closing
+[Tue Jul 14 08:46:05 2026] 127.0.0.1:59409 Accepted
+[Tue Jul 14 08:46:05 2026] 127.0.0.1:57821 Accepted
+[Tue Jul 14 08:46:05 2026] 127.0.0.1:59409 [200]: GET /style.css?v=10
+[Tue Jul 14 08:46:05 2026] 127.0.0.1:61338 Accepted
+[Tue Jul 14 08:46:05 2026] 127.0.0.1:57821 [200]: GET /logo.webp
+[Tue Jul 14 08:46:05 2026] 127.0.0.1:61338 [200]: GET /dist/script.js?v=3
+[Tue Jul 14 08:46:05 2026] 127.0.0.1:59409 Closing
+[Tue Jul 14 08:46:05 2026] 127.0.0.1:57821 Closing
+[Tue Jul 14 08:46:05 2026] 127.0.0.1:61338 Closing
+[Tue Jul 14 08:46:05 2026] 127.0.0.1:49856 Accepted
+[Tue Jul 14 08:46:05 2026] 127.0.0.1:49856 [200]: GET /api/leaderboard.php
+[Tue Jul 14 08:46:05 2026] 127.0.0.1:49856 Closing
+[Tue Jul 14 08:46:08 2026] 127.0.0.1:57575 Accepted
+[Tue Jul 14 08:46:08 2026] 127.0.0.1:57575 [200]: GET /style.css?v=10
+[Tue Jul 14 08:46:08 2026] 127.0.0.1:57575 Closing
+[Tue Jul 14 08:46:08 2026] 127.0.0.1:61177 Accepted
+[Tue Jul 14 08:46:08 2026] 127.0.0.1:61177 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:46:08 2026] 127.0.0.1:61177 Closing
+[Tue Jul 14 08:46:08 2026] 127.0.0.1:50018 Accepted
+[Tue Jul 14 08:46:08 2026] 127.0.0.1:50018 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:46:08 2026] 127.0.0.1:50018 Closing
+[Tue Jul 14 08:46:32 2026] 127.0.0.1:64438 Accepted
+[Tue Jul 14 08:46:32 2026] 127.0.0.1:64646 Accepted
+[Tue Jul 14 08:46:32 2026] 127.0.0.1:64438 [200]: GET /sign-in.html
+[Tue Jul 14 08:46:32 2026] 127.0.0.1:64438 Closing
+[Tue Jul 14 08:46:32 2026] 127.0.0.1:64646 [200]: GET /style.css?v=10
+[Tue Jul 14 08:46:32 2026] 127.0.0.1:62145 Accepted
+[Tue Jul 14 08:46:32 2026] 127.0.0.1:62145 [200]: GET /dist/sign-in.js
+[Tue Jul 14 08:46:32 2026] 127.0.0.1:64646 Closing
+[Tue Jul 14 08:46:32 2026] 127.0.0.1:62145 Closing
+[Tue Jul 14 08:46:32 2026] 127.0.0.1:53832 Accepted
+[Tue Jul 14 08:46:32 2026] 127.0.0.1:53832 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:46:32 2026] 127.0.0.1:53832 Closing
+[Tue Jul 14 08:46:32 2026] 127.0.0.1:57519 Accepted
+[Tue Jul 14 08:46:32 2026] 127.0.0.1:57519 [200]: GET /dist/sign-in.js.map
+[Tue Jul 14 08:46:32 2026] 127.0.0.1:57519 Closing
+[Tue Jul 14 08:46:32 2026] 127.0.0.1:50829 Accepted
+[Tue Jul 14 08:46:32 2026] 127.0.0.1:50829 [200]: GET /src/sign-in.ts
+[Tue Jul 14 08:46:32 2026] 127.0.0.1:50829 Closing
+[Tue Jul 14 08:46:36 2026] 127.0.0.1:63258 Accepted
+[Tue Jul 14 08:46:36 2026] 127.0.0.1:63258 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:46:36 2026] 127.0.0.1:63258 Closing
+[Tue Jul 14 08:46:36 2026] 127.0.0.1:60020 Accepted
+[Tue Jul 14 08:46:36 2026] 127.0.0.1:60020 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:46:36 2026] 127.0.0.1:60020 Closing
+[Tue Jul 14 08:46:36 2026] 127.0.0.1:52093 Accepted
+[Tue Jul 14 08:46:36 2026] 127.0.0.1:52093 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:46:36 2026] 127.0.0.1:52093 Closing
+[Tue Jul 14 08:46:37 2026] 127.0.0.1:65426 Accepted
+[Tue Jul 14 08:46:37 2026] 127.0.0.1:65426 [200]: GET /src/script.ts
+[Tue Jul 14 08:46:37 2026] 127.0.0.1:65426 Closing
+[Tue Jul 14 08:49:41 2026] 127.0.0.1:54444 Accepted
+[Tue Jul 14 08:49:41 2026] 127.0.0.1:54444 [200]: GET /login.html
+[Tue Jul 14 08:49:41 2026] 127.0.0.1:60825 Accepted
+[Tue Jul 14 08:49:41 2026] 127.0.0.1:54444 Closing
+[Tue Jul 14 08:49:41 2026] 127.0.0.1:60825 [200]: GET /style.css?v=10
+[Tue Jul 14 08:49:41 2026] 127.0.0.1:57884 Accepted
+[Tue Jul 14 08:49:41 2026] 127.0.0.1:57884 [200]: GET /dist/login.js
+[Tue Jul 14 08:49:41 2026] 127.0.0.1:60825 Closing
+[Tue Jul 14 08:49:41 2026] 127.0.0.1:57884 Closing
+[Tue Jul 14 08:49:41 2026] 127.0.0.1:51211 Accepted
+[Tue Jul 14 08:49:41 2026] 127.0.0.1:51211 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:49:41 2026] 127.0.0.1:51211 Closing
+[Tue Jul 14 08:49:41 2026] 127.0.0.1:58976 Accepted
+[Tue Jul 14 08:49:41 2026] 127.0.0.1:58976 [200]: GET /dist/login.js.map
+[Tue Jul 14 08:49:41 2026] 127.0.0.1:58976 Closing
+[Tue Jul 14 08:49:41 2026] 127.0.0.1:59930 Accepted
+[Tue Jul 14 08:49:41 2026] 127.0.0.1:59930 [200]: GET /src/login.ts
+[Tue Jul 14 08:49:41 2026] 127.0.0.1:59930 Closing
+[Tue Jul 14 08:49:43 2026] 127.0.0.1:61047 Accepted
+[Tue Jul 14 08:49:43 2026] 127.0.0.1:61047 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:49:43 2026] 127.0.0.1:61047 Closing
+[Tue Jul 14 08:49:43 2026] 127.0.0.1:61466 Accepted
+[Tue Jul 14 08:49:43 2026] 127.0.0.1:61466 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:49:43 2026] 127.0.0.1:61466 Closing
+[Tue Jul 14 08:49:43 2026] 127.0.0.1:62649 Accepted
+[Tue Jul 14 08:49:43 2026] 127.0.0.1:62649 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:49:43 2026] 127.0.0.1:62649 Closing
+[Tue Jul 14 08:49:43 2026] 127.0.0.1:62782 Accepted
+[Tue Jul 14 08:49:43 2026] 127.0.0.1:62782 [200]: GET /src/script.ts
+[Tue Jul 14 08:49:43 2026] 127.0.0.1:62782 Closing
+[Tue Jul 14 08:49:44 2026] 127.0.0.1:51115 Accepted
+[Tue Jul 14 08:49:44 2026] 127.0.0.1:51115 [200]: GET /sign-in.html
+[Tue Jul 14 08:49:44 2026] 127.0.0.1:51115 Closing
+[Tue Jul 14 08:49:44 2026] 127.0.0.1:50936 Accepted
+[Tue Jul 14 08:49:44 2026] 127.0.0.1:63241 Accepted
+[Tue Jul 14 08:49:44 2026] 127.0.0.1:50936 [200]: GET /style.css?v=10
+[Tue Jul 14 08:49:44 2026] 127.0.0.1:63241 [200]: GET /dist/sign-in.js
+[Tue Jul 14 08:49:44 2026] 127.0.0.1:50936 Closing
+[Tue Jul 14 08:49:44 2026] 127.0.0.1:63241 Closing
+[Tue Jul 14 08:49:44 2026] 127.0.0.1:56132 Accepted
+[Tue Jul 14 08:49:44 2026] 127.0.0.1:56132 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:49:44 2026] 127.0.0.1:56132 Closing
+[Tue Jul 14 08:49:44 2026] 127.0.0.1:56268 Accepted
+[Tue Jul 14 08:49:44 2026] 127.0.0.1:56268 [200]: GET /dist/sign-in.js.map
+[Tue Jul 14 08:49:44 2026] 127.0.0.1:56268 Closing
+[Tue Jul 14 08:49:44 2026] 127.0.0.1:65237 Accepted
+[Tue Jul 14 08:49:44 2026] 127.0.0.1:65237 [200]: GET /src/sign-in.ts
+[Tue Jul 14 08:49:44 2026] 127.0.0.1:65237 Closing
+[Tue Jul 14 08:49:45 2026] 127.0.0.1:54139 Accepted
+[Tue Jul 14 08:49:45 2026] 127.0.0.1:54139 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:49:45 2026] 127.0.0.1:54139 Closing
+[Tue Jul 14 08:49:45 2026] 127.0.0.1:57903 Accepted
+[Tue Jul 14 08:49:45 2026] 127.0.0.1:57903 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:49:45 2026] 127.0.0.1:57903 Closing
+[Tue Jul 14 08:49:45 2026] 127.0.0.1:52800 Accepted
+[Tue Jul 14 08:49:45 2026] 127.0.0.1:52800 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:49:45 2026] 127.0.0.1:52800 Closing
+[Tue Jul 14 08:49:46 2026] 127.0.0.1:59405 Accepted
+[Tue Jul 14 08:49:46 2026] 127.0.0.1:59405 [200]: GET /src/script.ts
+[Tue Jul 14 08:49:46 2026] 127.0.0.1:59405 Closing
+[Tue Jul 14 08:49:47 2026] 127.0.0.1:61979 Accepted
+[Tue Jul 14 08:49:47 2026] 127.0.0.1:63868 Accepted
+[Tue Jul 14 08:49:47 2026] 127.0.0.1:61979 [200]: GET /achievements.html
+[Tue Jul 14 08:49:47 2026] 127.0.0.1:61979 Closing
+[Tue Jul 14 08:49:47 2026] 127.0.0.1:63868 [200]: GET /style.css?v=10
+[Tue Jul 14 08:49:47 2026] 127.0.0.1:57546 Accepted
+[Tue Jul 14 08:49:47 2026] 127.0.0.1:57546 [200]: GET /dist/achievements.js
+[Tue Jul 14 08:49:47 2026] 127.0.0.1:63868 Closing
+[Tue Jul 14 08:49:47 2026] 127.0.0.1:57546 Closing
+[Tue Jul 14 08:49:47 2026] 127.0.0.1:63827 Accepted
+[Tue Jul 14 08:49:47 2026] 127.0.0.1:63827 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:49:47 2026] 127.0.0.1:63827 Closing
+[Tue Jul 14 08:49:47 2026] 127.0.0.1:50994 Accepted
+[Tue Jul 14 08:49:47 2026] 127.0.0.1:50994 [200]: GET /dist/achievements.js.map
+[Tue Jul 14 08:49:47 2026] 127.0.0.1:50994 Closing
+[Tue Jul 14 08:49:47 2026] 127.0.0.1:60322 Accepted
+[Tue Jul 14 08:49:47 2026] 127.0.0.1:60322 [200]: GET /src/achievements.ts
+[Tue Jul 14 08:49:47 2026] 127.0.0.1:60322 Closing
+[Tue Jul 14 08:49:48 2026] 127.0.0.1:59321 Accepted
+[Tue Jul 14 08:49:48 2026] 127.0.0.1:59321 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:49:48 2026] 127.0.0.1:59321 Closing
+[Tue Jul 14 08:49:48 2026] 127.0.0.1:53543 Accepted
+[Tue Jul 14 08:49:48 2026] 127.0.0.1:53543 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:49:48 2026] 127.0.0.1:53543 Closing
+[Tue Jul 14 08:49:48 2026] 127.0.0.1:64070 Accepted
+[Tue Jul 14 08:49:48 2026] 127.0.0.1:64070 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:49:48 2026] 127.0.0.1:64070 Closing
+[Tue Jul 14 08:49:49 2026] 127.0.0.1:60036 Accepted
+[Tue Jul 14 08:49:49 2026] 127.0.0.1:60036 [200]: GET /src/script.ts
+[Tue Jul 14 08:49:49 2026] 127.0.0.1:60036 Closing
+[Tue Jul 14 08:49:56 2026] 127.0.0.1:56545 Accepted
+[Tue Jul 14 08:49:56 2026] 127.0.0.1:56545 [200]: GET /login.html
+[Tue Jul 14 08:49:56 2026] 127.0.0.1:58444 Accepted
+[Tue Jul 14 08:49:56 2026] 127.0.0.1:56545 Closing
+[Tue Jul 14 08:49:56 2026] 127.0.0.1:58444 [200]: GET /style.css?v=10
+[Tue Jul 14 08:49:56 2026] 127.0.0.1:51594 Accepted
+[Tue Jul 14 08:49:56 2026] 127.0.0.1:51594 [200]: GET /dist/login.js
+[Tue Jul 14 08:49:56 2026] 127.0.0.1:58444 Closing
+[Tue Jul 14 08:49:56 2026] 127.0.0.1:51594 Closing
+[Tue Jul 14 08:49:57 2026] 127.0.0.1:51124 Accepted
+[Tue Jul 14 08:49:57 2026] 127.0.0.1:51124 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:49:57 2026] 127.0.0.1:51124 Closing
+[Tue Jul 14 08:49:57 2026] 127.0.0.1:60448 Accepted
+[Tue Jul 14 08:49:57 2026] 127.0.0.1:60448 [200]: GET /dist/login.js.map
+[Tue Jul 14 08:49:57 2026] 127.0.0.1:60448 Closing
+[Tue Jul 14 08:49:57 2026] 127.0.0.1:64825 Accepted
+[Tue Jul 14 08:49:57 2026] 127.0.0.1:64825 [200]: GET /src/login.ts
+[Tue Jul 14 08:49:57 2026] 127.0.0.1:64825 Closing
+[Tue Jul 14 08:51:55 2026] 127.0.0.1:63625 Accepted
+[Tue Jul 14 08:51:55 2026] 127.0.0.1:63625 [200]: GET /login.html
+[Tue Jul 14 08:51:55 2026] 127.0.0.1:54442 Accepted
+[Tue Jul 14 08:51:55 2026] 127.0.0.1:63625 Closing
+[Tue Jul 14 08:51:55 2026] 127.0.0.1:54442 [200]: GET /style.css?v=11
+[Tue Jul 14 08:51:55 2026] 127.0.0.1:50040 Accepted
+[Tue Jul 14 08:51:55 2026] 127.0.0.1:50040 [200]: GET /dist/login.js
+[Tue Jul 14 08:51:55 2026] 127.0.0.1:54442 Closing
+[Tue Jul 14 08:51:55 2026] 127.0.0.1:50040 Closing
+[Tue Jul 14 08:51:55 2026] 127.0.0.1:60968 Accepted
+[Tue Jul 14 08:51:55 2026] 127.0.0.1:60968 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:51:55 2026] 127.0.0.1:60968 Closing
+[Tue Jul 14 08:51:55 2026] 127.0.0.1:56341 Accepted
+[Tue Jul 14 08:51:55 2026] 127.0.0.1:56341 [200]: GET /dist/login.js.map
+[Tue Jul 14 08:51:55 2026] 127.0.0.1:56341 Closing
+[Tue Jul 14 08:51:55 2026] 127.0.0.1:58179 Accepted
+[Tue Jul 14 08:51:55 2026] 127.0.0.1:58179 [200]: GET /src/login.ts
+[Tue Jul 14 08:51:55 2026] 127.0.0.1:58179 Closing
+[Tue Jul 14 08:51:56 2026] 127.0.0.1:57758 Accepted
+[Tue Jul 14 08:51:56 2026] 127.0.0.1:57758 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:51:56 2026] 127.0.0.1:57758 Closing
+[Tue Jul 14 08:51:56 2026] 127.0.0.1:60936 Accepted
+[Tue Jul 14 08:51:56 2026] 127.0.0.1:60936 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:51:56 2026] 127.0.0.1:60936 Closing
+[Tue Jul 14 08:51:56 2026] 127.0.0.1:56073 Accepted
+[Tue Jul 14 08:51:56 2026] 127.0.0.1:56073 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:51:56 2026] 127.0.0.1:56073 Closing
+[Tue Jul 14 08:51:57 2026] 127.0.0.1:52376 Accepted
+[Tue Jul 14 08:51:57 2026] 127.0.0.1:52376 [200]: GET /src/script.ts
+[Tue Jul 14 08:51:57 2026] 127.0.0.1:52376 Closing
+[Tue Jul 14 08:51:59 2026] 127.0.0.1:50240 Accepted
+[Tue Jul 14 08:51:59 2026] 127.0.0.1:50240 [200]: GET /login.html
+[Tue Jul 14 08:51:59 2026] 127.0.0.1:50240 Closing
+[Tue Jul 14 08:51:59 2026] 127.0.0.1:62963 Accepted
+[Tue Jul 14 08:51:59 2026] 127.0.0.1:54514 Accepted
+[Tue Jul 14 08:51:59 2026] 127.0.0.1:62963 [200]: GET /style.css?v=11
+[Tue Jul 14 08:51:59 2026] 127.0.0.1:54514 [200]: GET /dist/login.js
+[Tue Jul 14 08:51:59 2026] 127.0.0.1:62963 Closing
+[Tue Jul 14 08:51:59 2026] 127.0.0.1:54514 Closing
+[Tue Jul 14 08:51:59 2026] 127.0.0.1:57723 Accepted
+[Tue Jul 14 08:51:59 2026] 127.0.0.1:57723 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:51:59 2026] 127.0.0.1:57723 Closing
+[Tue Jul 14 08:51:59 2026] 127.0.0.1:61597 Accepted
+[Tue Jul 14 08:51:59 2026] 127.0.0.1:61597 [200]: GET /dist/login.js.map
+[Tue Jul 14 08:51:59 2026] 127.0.0.1:61597 Closing
+[Tue Jul 14 08:51:59 2026] 127.0.0.1:53253 Accepted
+[Tue Jul 14 08:51:59 2026] 127.0.0.1:53253 [200]: GET /src/login.ts
+[Tue Jul 14 08:51:59 2026] 127.0.0.1:53253 Closing
+[Tue Jul 14 08:52:00 2026] 127.0.0.1:63640 Accepted
+[Tue Jul 14 08:52:01 2026] 127.0.0.1:63640 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:52:01 2026] 127.0.0.1:63640 Closing
+[Tue Jul 14 08:52:01 2026] 127.0.0.1:60667 Accepted
+[Tue Jul 14 08:52:01 2026] 127.0.0.1:60667 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:52:01 2026] 127.0.0.1:60667 Closing
+[Tue Jul 14 08:52:01 2026] 127.0.0.1:65424 Accepted
+[Tue Jul 14 08:52:01 2026] 127.0.0.1:65424 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:52:01 2026] 127.0.0.1:65424 Closing
+[Tue Jul 14 08:52:01 2026] 127.0.0.1:55243 Accepted
+[Tue Jul 14 08:52:01 2026] 127.0.0.1:55243 [200]: GET /src/script.ts
+[Tue Jul 14 08:52:01 2026] 127.0.0.1:55243 Closing
+[Tue Jul 14 08:52:02 2026] 127.0.0.1:55187 Accepted
+[Tue Jul 14 08:52:02 2026] 127.0.0.1:55187 [200]: GET /sign-in.html
+[Tue Jul 14 08:52:02 2026] 127.0.0.1:55187 Closing
+[Tue Jul 14 08:52:02 2026] 127.0.0.1:52007 Accepted
+[Tue Jul 14 08:52:02 2026] 127.0.0.1:62269 Accepted
+[Tue Jul 14 08:52:02 2026] 127.0.0.1:52007 [200]: GET /style.css?v=11
+[Tue Jul 14 08:52:02 2026] 127.0.0.1:62269 [200]: GET /dist/sign-in.js
+[Tue Jul 14 08:52:02 2026] 127.0.0.1:52007 Closing
+[Tue Jul 14 08:52:02 2026] 127.0.0.1:62269 Closing
+[Tue Jul 14 08:52:02 2026] 127.0.0.1:51957 Accepted
+[Tue Jul 14 08:52:02 2026] 127.0.0.1:51957 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:52:02 2026] 127.0.0.1:51957 Closing
+[Tue Jul 14 08:52:02 2026] 127.0.0.1:52391 Accepted
+[Tue Jul 14 08:52:02 2026] 127.0.0.1:52391 [200]: GET /dist/sign-in.js.map
+[Tue Jul 14 08:52:02 2026] 127.0.0.1:52391 Closing
+[Tue Jul 14 08:52:02 2026] 127.0.0.1:60691 Accepted
+[Tue Jul 14 08:52:02 2026] 127.0.0.1:60691 [200]: GET /src/sign-in.ts
+[Tue Jul 14 08:52:02 2026] 127.0.0.1:60691 Closing
+[Tue Jul 14 08:52:03 2026] 127.0.0.1:52869 Accepted
+[Tue Jul 14 08:52:03 2026] 127.0.0.1:52869 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:52:03 2026] 127.0.0.1:52869 Closing
+[Tue Jul 14 08:52:03 2026] 127.0.0.1:65444 Accepted
+[Tue Jul 14 08:52:03 2026] 127.0.0.1:65444 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:52:03 2026] 127.0.0.1:65444 Closing
+[Tue Jul 14 08:52:03 2026] 127.0.0.1:63734 Accepted
+[Tue Jul 14 08:52:03 2026] 127.0.0.1:63734 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:52:03 2026] 127.0.0.1:63734 Closing
+[Tue Jul 14 08:52:03 2026] 127.0.0.1:59324 Accepted
+[Tue Jul 14 08:52:03 2026] 127.0.0.1:59324 [200]: GET /src/script.ts
+[Tue Jul 14 08:52:03 2026] 127.0.0.1:59324 Closing
+[Tue Jul 14 08:52:09 2026] 127.0.0.1:55262 Accepted
+[Tue Jul 14 08:52:09 2026] 127.0.0.1:55262 [200]: GET /index.html
+[Tue Jul 14 08:52:09 2026] 127.0.0.1:55262 Closing
+[Tue Jul 14 08:52:09 2026] 127.0.0.1:51691 Accepted
+[Tue Jul 14 08:52:09 2026] 127.0.0.1:51691 [200]: GET /style.css?v=12
+[Tue Jul 14 08:52:09 2026] 127.0.0.1:51691 Closing
+[Tue Jul 14 08:52:09 2026] 127.0.0.1:59276 Accepted
+[Tue Jul 14 08:52:09 2026] 127.0.0.1:59276 [200]: GET /logo.webp
+[Tue Jul 14 08:52:09 2026] 127.0.0.1:59276 Closing
+[Tue Jul 14 08:52:09 2026] 127.0.0.1:64959 Accepted
+[Tue Jul 14 08:52:09 2026] 127.0.0.1:64959 [200]: GET /dist/script.js?v=3
+[Tue Jul 14 08:52:09 2026] 127.0.0.1:64959 Closing
+[Tue Jul 14 08:52:09 2026] 127.0.0.1:60201 Accepted
+[Tue Jul 14 08:52:09 2026] 127.0.0.1:60201 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:52:09 2026] 127.0.0.1:60201 Closing
+[Tue Jul 14 08:52:09 2026] 127.0.0.1:63959 Accepted
+[Tue Jul 14 08:52:09 2026] 127.0.0.1:63959 [200]: GET /api/leaderboard.php
+[Tue Jul 14 08:52:09 2026] 127.0.0.1:63959 Closing
+[Tue Jul 14 08:52:10 2026] 127.0.0.1:62554 Accepted
+[Tue Jul 14 08:52:10 2026] 127.0.0.1:62554 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:52:10 2026] 127.0.0.1:62554 Closing
+[Tue Jul 14 08:52:10 2026] 127.0.0.1:64760 Accepted
+[Tue Jul 14 08:52:10 2026] 127.0.0.1:64760 [200]: GET /src/script.ts
+[Tue Jul 14 08:52:10 2026] 127.0.0.1:64760 Closing
+[Tue Jul 14 08:52:32 2026] 127.0.0.1:52706 Accepted
+[Tue Jul 14 08:52:32 2026] 127.0.0.1:58701 Accepted
+[Tue Jul 14 08:52:32 2026] 127.0.0.1:52706 [200]: GET /quest.html
+[Tue Jul 14 08:52:32 2026] 127.0.0.1:52706 Closing
+[Tue Jul 14 08:52:32 2026] 127.0.0.1:58701 [200]: GET /style.css?v=12
+[Tue Jul 14 08:52:32 2026] 127.0.0.1:60419 Accepted
+[Tue Jul 14 08:52:32 2026] 127.0.0.1:60419 [200]: GET /dist/quest.js
+[Tue Jul 14 08:52:32 2026] 127.0.0.1:58701 Closing
+[Tue Jul 14 08:52:32 2026] 127.0.0.1:60419 Closing
+[Tue Jul 14 08:52:32 2026] 127.0.0.1:61249 Accepted
+[Tue Jul 14 08:52:32 2026] 127.0.0.1:61249 [200]: GET /api/quests.php
+[Tue Jul 14 08:52:32 2026] 127.0.0.1:61249 Closing
+[Tue Jul 14 08:52:32 2026] 127.0.0.1:54809 Accepted
+[Tue Jul 14 08:52:32 2026] 127.0.0.1:54809 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:52:32 2026] 127.0.0.1:54809 Closing
+[Tue Jul 14 08:52:32 2026] 127.0.0.1:59091 Accepted
+[Tue Jul 14 08:52:32 2026] 127.0.0.1:59091 [200]: GET /dist/quest.js.map
+[Tue Jul 14 08:52:32 2026] 127.0.0.1:59091 Closing
+[Tue Jul 14 08:52:32 2026] 127.0.0.1:56786 Accepted
+[Tue Jul 14 08:52:32 2026] 127.0.0.1:56786 [200]: GET /src/quest.ts
+[Tue Jul 14 08:52:32 2026] 127.0.0.1:56786 Closing
+[Tue Jul 14 08:52:35 2026] 127.0.0.1:54696 Accepted
+[Tue Jul 14 08:52:35 2026] 127.0.0.1:54696 [200]: GET /style.css?v=12
+[Tue Jul 14 08:52:35 2026] 127.0.0.1:54696 Closing
+[Tue Jul 14 08:52:35 2026] 127.0.0.1:51195 Accepted
+[Tue Jul 14 08:52:35 2026] 127.0.0.1:51195 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:52:35 2026] 127.0.0.1:51195 Closing
+[Tue Jul 14 08:52:35 2026] 127.0.0.1:53853 Accepted
+[Tue Jul 14 08:52:35 2026] 127.0.0.1:53853 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:52:35 2026] 127.0.0.1:53853 Closing
+[Tue Jul 14 08:52:35 2026] 127.0.0.1:60682 Accepted
+[Tue Jul 14 08:52:35 2026] 127.0.0.1:60682 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:52:35 2026] 127.0.0.1:60682 Closing
+[Tue Jul 14 08:52:35 2026] 127.0.0.1:52718 Accepted
+[Tue Jul 14 08:52:35 2026] 127.0.0.1:52718 [200]: GET /src/script.ts
+[Tue Jul 14 08:52:35 2026] 127.0.0.1:52718 Closing
+[Tue Jul 14 08:52:36 2026] 127.0.0.1:53159 Accepted
+[Tue Jul 14 08:52:36 2026] 127.0.0.1:53159 [200]: GET /achievements.html
+[Tue Jul 14 08:52:36 2026] 127.0.0.1:53159 Closing
+[Tue Jul 14 08:52:36 2026] 127.0.0.1:49707 Accepted
+[Tue Jul 14 08:52:36 2026] 127.0.0.1:54682 Accepted
+[Tue Jul 14 08:52:36 2026] 127.0.0.1:49707 [200]: GET /style.css?v=12
+[Tue Jul 14 08:52:36 2026] 127.0.0.1:54682 [200]: GET /dist/achievements.js
+[Tue Jul 14 08:52:36 2026] 127.0.0.1:49707 Closing
+[Tue Jul 14 08:52:36 2026] 127.0.0.1:54682 Closing
+[Tue Jul 14 08:52:36 2026] 127.0.0.1:59213 Accepted
+[Tue Jul 14 08:52:36 2026] 127.0.0.1:59213 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:52:36 2026] 127.0.0.1:59213 Closing
+[Tue Jul 14 08:52:36 2026] 127.0.0.1:52500 Accepted
+[Tue Jul 14 08:52:36 2026] 127.0.0.1:52500 [200]: GET /dist/achievements.js.map
+[Tue Jul 14 08:52:36 2026] 127.0.0.1:52500 Closing
+[Tue Jul 14 08:52:36 2026] 127.0.0.1:64221 Accepted
+[Tue Jul 14 08:52:36 2026] 127.0.0.1:64221 [200]: GET /src/achievements.ts
+[Tue Jul 14 08:52:36 2026] 127.0.0.1:64221 Closing
+[Tue Jul 14 08:52:38 2026] 127.0.0.1:63281 Accepted
+[Tue Jul 14 08:52:38 2026] 127.0.0.1:63281 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:52:38 2026] 127.0.0.1:63281 Closing
+[Tue Jul 14 08:52:38 2026] 127.0.0.1:64613 Accepted
+[Tue Jul 14 08:52:38 2026] 127.0.0.1:64613 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:52:38 2026] 127.0.0.1:64613 Closing
+[Tue Jul 14 08:52:38 2026] 127.0.0.1:56041 Accepted
+[Tue Jul 14 08:52:38 2026] 127.0.0.1:56041 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:52:38 2026] 127.0.0.1:56041 Closing
+[Tue Jul 14 08:52:39 2026] 127.0.0.1:61766 Accepted
+[Tue Jul 14 08:52:39 2026] 127.0.0.1:61766 [200]: GET /src/script.ts
+[Tue Jul 14 08:52:39 2026] 127.0.0.1:61766 Closing
+[Tue Jul 14 08:52:41 2026] 127.0.0.1:50046 Accepted
+[Tue Jul 14 08:52:41 2026] 127.0.0.1:50046 [200]: GET /extra-points.html
+[Tue Jul 14 08:52:41 2026] 127.0.0.1:56516 Accepted
+[Tue Jul 14 08:52:41 2026] 127.0.0.1:50046 Closing
+[Tue Jul 14 08:52:41 2026] 127.0.0.1:56516 [200]: GET /style.css?v=12
+[Tue Jul 14 08:52:41 2026] 127.0.0.1:53135 Accepted
+[Tue Jul 14 08:52:41 2026] 127.0.0.1:53135 [200]: GET /dist/extra-points.js
+[Tue Jul 14 08:52:41 2026] 127.0.0.1:56516 Closing
+[Tue Jul 14 08:52:41 2026] 127.0.0.1:53135 Closing
+[Tue Jul 14 08:52:41 2026] 127.0.0.1:56559 Accepted
+[Tue Jul 14 08:52:41 2026] 127.0.0.1:56559 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:52:41 2026] 127.0.0.1:56559 Closing
+[Tue Jul 14 08:52:41 2026] 127.0.0.1:54131 Accepted
+[Tue Jul 14 08:52:41 2026] 127.0.0.1:54131 [200]: GET /dist/extra-points.js.map
+[Tue Jul 14 08:52:41 2026] 127.0.0.1:54131 Closing
+[Tue Jul 14 08:52:41 2026] 127.0.0.1:63983 Accepted
+[Tue Jul 14 08:52:41 2026] 127.0.0.1:63983 [200]: GET /src/extra-points.ts
+[Tue Jul 14 08:52:41 2026] 127.0.0.1:63983 Closing
+[Tue Jul 14 08:52:42 2026] 127.0.0.1:61527 Accepted
+[Tue Jul 14 08:52:42 2026] 127.0.0.1:61527 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:52:42 2026] 127.0.0.1:61527 Closing
+[Tue Jul 14 08:52:42 2026] 127.0.0.1:62731 Accepted
+[Tue Jul 14 08:52:42 2026] 127.0.0.1:62731 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:52:42 2026] 127.0.0.1:62731 Closing
+[Tue Jul 14 08:52:42 2026] 127.0.0.1:53169 Accepted
+[Tue Jul 14 08:52:42 2026] 127.0.0.1:53169 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:52:42 2026] 127.0.0.1:53169 Closing
+[Tue Jul 14 08:52:43 2026] 127.0.0.1:55189 Accepted
+[Tue Jul 14 08:52:43 2026] 127.0.0.1:55189 [200]: GET /src/script.ts
+[Tue Jul 14 08:52:43 2026] 127.0.0.1:55189 Closing
+[Tue Jul 14 08:52:46 2026] 127.0.0.1:63406 Accepted
+[Tue Jul 14 08:52:46 2026] 127.0.0.1:63406 [200]: GET /login.html
+[Tue Jul 14 08:52:46 2026] 127.0.0.1:63406 Closing
+[Tue Jul 14 08:52:46 2026] 127.0.0.1:63407 Accepted
+[Tue Jul 14 08:52:46 2026] 127.0.0.1:63407 [200]: GET /style.css?v=12
+[Tue Jul 14 08:52:46 2026] 127.0.0.1:64636 Accepted
+[Tue Jul 14 08:52:46 2026] 127.0.0.1:64636 [200]: GET /dist/login.js
+[Tue Jul 14 08:52:46 2026] 127.0.0.1:63407 Closing
+[Tue Jul 14 08:52:46 2026] 127.0.0.1:64636 Closing
+[Tue Jul 14 08:52:46 2026] 127.0.0.1:55023 Accepted
+[Tue Jul 14 08:52:46 2026] 127.0.0.1:55023 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:52:46 2026] 127.0.0.1:55023 Closing
+[Tue Jul 14 08:52:46 2026] 127.0.0.1:62445 Accepted
+[Tue Jul 14 08:52:46 2026] 127.0.0.1:62445 [200]: GET /dist/login.js.map
+[Tue Jul 14 08:52:46 2026] 127.0.0.1:62445 Closing
+[Tue Jul 14 08:52:46 2026] 127.0.0.1:51337 Accepted
+[Tue Jul 14 08:52:46 2026] 127.0.0.1:51337 [200]: GET /src/login.ts
+[Tue Jul 14 08:52:46 2026] 127.0.0.1:51337 Closing
+[Tue Jul 14 08:52:48 2026] 127.0.0.1:50807 Accepted
+[Tue Jul 14 08:52:48 2026] 127.0.0.1:50807 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:52:48 2026] 127.0.0.1:50807 Closing
+[Tue Jul 14 08:52:48 2026] 127.0.0.1:64772 Accepted
+[Tue Jul 14 08:52:48 2026] 127.0.0.1:64772 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:52:48 2026] 127.0.0.1:64772 Closing
+[Tue Jul 14 08:52:48 2026] 127.0.0.1:63327 Accepted
+[Tue Jul 14 08:52:48 2026] 127.0.0.1:63327 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:52:48 2026] 127.0.0.1:63327 Closing
+[Tue Jul 14 08:52:48 2026] 127.0.0.1:63230 Accepted
+[Tue Jul 14 08:52:48 2026] 127.0.0.1:63230 [200]: GET /src/script.ts
+[Tue Jul 14 08:52:48 2026] 127.0.0.1:63230 Closing
+[Tue Jul 14 08:52:49 2026] 127.0.0.1:53118 Accepted
+[Tue Jul 14 08:52:49 2026] 127.0.0.1:53118 [200]: GET /sign-in.html
+[Tue Jul 14 08:52:49 2026] 127.0.0.1:53118 Closing
+[Tue Jul 14 08:52:49 2026] 127.0.0.1:55756 Accepted
+[Tue Jul 14 08:52:49 2026] 127.0.0.1:56148 Accepted
+[Tue Jul 14 08:52:49 2026] 127.0.0.1:55756 [200]: GET /style.css?v=12
+[Tue Jul 14 08:52:49 2026] 127.0.0.1:56148 [200]: GET /dist/sign-in.js
+[Tue Jul 14 08:52:49 2026] 127.0.0.1:55756 Closing
+[Tue Jul 14 08:52:49 2026] 127.0.0.1:56148 Closing
+[Tue Jul 14 08:52:49 2026] 127.0.0.1:54612 Accepted
+[Tue Jul 14 08:52:49 2026] 127.0.0.1:54612 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:52:49 2026] 127.0.0.1:54612 Closing
+[Tue Jul 14 08:52:49 2026] 127.0.0.1:55514 Accepted
+[Tue Jul 14 08:52:49 2026] 127.0.0.1:55514 [200]: GET /dist/sign-in.js.map
+[Tue Jul 14 08:52:49 2026] 127.0.0.1:55514 Closing
+[Tue Jul 14 08:52:49 2026] 127.0.0.1:49669 Accepted
+[Tue Jul 14 08:52:49 2026] 127.0.0.1:49669 [200]: GET /src/sign-in.ts
+[Tue Jul 14 08:52:49 2026] 127.0.0.1:49669 Closing
+[Tue Jul 14 08:52:50 2026] 127.0.0.1:61587 Accepted
+[Tue Jul 14 08:52:50 2026] 127.0.0.1:61587 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:52:50 2026] 127.0.0.1:61587 Closing
+[Tue Jul 14 08:52:50 2026] 127.0.0.1:59159 Accepted
+[Tue Jul 14 08:52:50 2026] 127.0.0.1:59159 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:52:50 2026] 127.0.0.1:59159 Closing
+[Tue Jul 14 08:52:50 2026] 127.0.0.1:53426 Accepted
+[Tue Jul 14 08:52:50 2026] 127.0.0.1:53426 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:52:50 2026] 127.0.0.1:53426 Closing
+[Tue Jul 14 08:52:51 2026] 127.0.0.1:52739 Accepted
+[Tue Jul 14 08:52:51 2026] 127.0.0.1:52739 [200]: GET /src/script.ts
+[Tue Jul 14 08:52:51 2026] 127.0.0.1:52739 Closing
+[Tue Jul 14 08:53:42 2026] 127.0.0.1:65094 Accepted
+[Tue Jul 14 08:53:42 2026] 127.0.0.1:65094 [200]: GET /index.html
+[Tue Jul 14 08:53:42 2026] 127.0.0.1:56260 Accepted
+[Tue Jul 14 08:53:42 2026] 127.0.0.1:65094 Closing
+[Tue Jul 14 08:53:42 2026] 127.0.0.1:56260 [200]: GET /style.css?v=13
+[Tue Jul 14 08:53:42 2026] 127.0.0.1:56459 Accepted
+[Tue Jul 14 08:53:42 2026] 127.0.0.1:58144 Accepted
+[Tue Jul 14 08:53:42 2026] 127.0.0.1:56260 Closing
+[Tue Jul 14 08:53:42 2026] 127.0.0.1:56459 [200]: GET /logo.webp
+[Tue Jul 14 08:53:42 2026] 127.0.0.1:58144 [200]: GET /dist/script.js?v=3
+[Tue Jul 14 08:53:42 2026] 127.0.0.1:56459 Closing
+[Tue Jul 14 08:53:42 2026] 127.0.0.1:58144 Closing
+[Tue Jul 14 08:53:42 2026] 127.0.0.1:63032 Accepted
+[Tue Jul 14 08:53:42 2026] 127.0.0.1:63032 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:53:42 2026] 127.0.0.1:63032 Closing
+[Tue Jul 14 08:53:42 2026] 127.0.0.1:62429 Accepted
+[Tue Jul 14 08:53:42 2026] 127.0.0.1:62429 [200]: GET /api/leaderboard.php
+[Tue Jul 14 08:53:42 2026] 127.0.0.1:62429 Closing
+[Tue Jul 14 08:53:42 2026] 127.0.0.1:49883 Accepted
+[Tue Jul 14 08:53:42 2026] 127.0.0.1:49883 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:53:42 2026] 127.0.0.1:49883 Closing
+[Tue Jul 14 08:53:42 2026] 127.0.0.1:58524 Accepted
+[Tue Jul 14 08:53:42 2026] 127.0.0.1:58524 [200]: GET /src/script.ts
+[Tue Jul 14 08:53:42 2026] 127.0.0.1:58524 Closing
+[Tue Jul 14 08:53:58 2026] 127.0.0.1:52287 Accepted
+[Tue Jul 14 08:53:58 2026] 127.0.0.1:52287 [200]: GET /login.html
+[Tue Jul 14 08:53:58 2026] 127.0.0.1:52287 Closing
+[Tue Jul 14 08:53:58 2026] 127.0.0.1:58356 Accepted
+[Tue Jul 14 08:53:58 2026] 127.0.0.1:58406 Accepted
+[Tue Jul 14 08:53:58 2026] 127.0.0.1:58356 [200]: GET /style.css?v=13
+[Tue Jul 14 08:53:58 2026] 127.0.0.1:58406 [200]: GET /dist/login.js
+[Tue Jul 14 08:53:58 2026] 127.0.0.1:58356 Closing
+[Tue Jul 14 08:53:58 2026] 127.0.0.1:58406 Closing
+[Tue Jul 14 08:53:58 2026] 127.0.0.1:49274 Accepted
+[Tue Jul 14 08:53:58 2026] 127.0.0.1:49274 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:53:58 2026] 127.0.0.1:49274 Closing
+[Tue Jul 14 08:53:58 2026] 127.0.0.1:60160 Accepted
+[Tue Jul 14 08:53:58 2026] 127.0.0.1:60160 [200]: GET /dist/login.js.map
+[Tue Jul 14 08:53:58 2026] 127.0.0.1:60160 Closing
+[Tue Jul 14 08:53:58 2026] 127.0.0.1:55331 Accepted
+[Tue Jul 14 08:53:58 2026] 127.0.0.1:55331 [200]: GET /src/login.ts
+[Tue Jul 14 08:53:58 2026] 127.0.0.1:55331 Closing
+[Tue Jul 14 08:55:20 2026] 127.0.0.1:61027 Accepted
+[Tue Jul 14 08:55:20 2026] 127.0.0.1:61027 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:55:20 2026] 127.0.0.1:61027 Closing
+[Tue Jul 14 08:55:20 2026] 127.0.0.1:56946 Accepted
+[Tue Jul 14 08:55:20 2026] 127.0.0.1:56946 [200]: GET /style.css?v=13
+[Tue Jul 14 08:55:20 2026] 127.0.0.1:56946 Closing
+[Tue Jul 14 08:55:20 2026] 127.0.0.1:60047 Accepted
+[Tue Jul 14 08:55:20 2026] 127.0.0.1:60047 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:55:20 2026] 127.0.0.1:60047 Closing
+[Tue Jul 14 08:55:21 2026] 127.0.0.1:51935 Accepted
+[Tue Jul 14 08:55:21 2026] 127.0.0.1:51935 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:55:21 2026] 127.0.0.1:51935 Closing
+[Tue Jul 14 08:55:21 2026] 127.0.0.1:53442 Accepted
+[Tue Jul 14 08:55:21 2026] 127.0.0.1:53442 [200]: GET /src/script.ts
+[Tue Jul 14 08:55:21 2026] 127.0.0.1:53442 Closing
+[Tue Jul 14 08:55:28 2026] 127.0.0.1:56989 Accepted
+[Tue Jul 14 08:55:28 2026] 127.0.0.1:49265 Accepted
+[Tue Jul 14 08:55:28 2026] 127.0.0.1:56989 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:55:28 2026] 127.0.0.1:56989 Closing
+[Tue Jul 14 08:55:28 2026] 127.0.0.1:49265 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:55:28 2026] 127.0.0.1:49265 Closing
+[Tue Jul 14 08:55:28 2026] 127.0.0.1:60295 Accepted
+[Tue Jul 14 08:55:28 2026] 127.0.0.1:60295 [200]: GET /src/script.ts
+[Tue Jul 14 08:55:28 2026] 127.0.0.1:60295 Closing
+[Tue Jul 14 08:55:30 2026] 127.0.0.1:56212 Accepted
+[Tue Jul 14 08:55:30 2026] 127.0.0.1:56212 [200]: GET /login.html
+[Tue Jul 14 08:55:30 2026] 127.0.0.1:56212 Closing
+[Tue Jul 14 08:55:30 2026] 127.0.0.1:59648 Accepted
+[Tue Jul 14 08:55:30 2026] 127.0.0.1:49672 Accepted
+[Tue Jul 14 08:55:30 2026] 127.0.0.1:59648 [200]: GET /style.css?v=14
+[Tue Jul 14 08:55:30 2026] 127.0.0.1:49672 [200]: GET /dist/login.js
+[Tue Jul 14 08:55:30 2026] 127.0.0.1:59648 Closing
+[Tue Jul 14 08:55:30 2026] 127.0.0.1:49672 Closing
+[Tue Jul 14 08:55:30 2026] 127.0.0.1:64150 Accepted
+[Tue Jul 14 08:55:30 2026] 127.0.0.1:64150 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:55:30 2026] 127.0.0.1:64150 Closing
+[Tue Jul 14 08:55:30 2026] 127.0.0.1:56495 Accepted
+[Tue Jul 14 08:55:30 2026] 127.0.0.1:56495 [200]: GET /dist/login.js.map
+[Tue Jul 14 08:55:30 2026] 127.0.0.1:56495 Closing
+[Tue Jul 14 08:55:30 2026] 127.0.0.1:49859 Accepted
+[Tue Jul 14 08:55:30 2026] 127.0.0.1:49859 [200]: GET /src/login.ts
+[Tue Jul 14 08:55:30 2026] 127.0.0.1:49859 Closing
+[Tue Jul 14 08:55:34 2026] 127.0.0.1:60561 Accepted
+[Tue Jul 14 08:55:34 2026] 127.0.0.1:60561 [200]: GET /login.html
+[Tue Jul 14 08:55:34 2026] 127.0.0.1:59167 Accepted
+[Tue Jul 14 08:55:34 2026] 127.0.0.1:60561 Closing
+[Tue Jul 14 08:55:34 2026] 127.0.0.1:59167 [200]: GET /style.css?v=14
+[Tue Jul 14 08:55:34 2026] 127.0.0.1:54806 Accepted
+[Tue Jul 14 08:55:34 2026] 127.0.0.1:54806 [200]: GET /dist/login.js
+[Tue Jul 14 08:55:34 2026] 127.0.0.1:59167 Closing
+[Tue Jul 14 08:55:34 2026] 127.0.0.1:54806 Closing
+[Tue Jul 14 08:55:34 2026] 127.0.0.1:59158 Accepted
+[Tue Jul 14 08:55:34 2026] 127.0.0.1:59158 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:55:34 2026] 127.0.0.1:59158 Closing
+[Tue Jul 14 08:55:34 2026] 127.0.0.1:52630 Accepted
+[Tue Jul 14 08:55:34 2026] 127.0.0.1:52630 [200]: GET /dist/login.js.map
+[Tue Jul 14 08:55:34 2026] 127.0.0.1:52630 Closing
+[Tue Jul 14 08:55:34 2026] 127.0.0.1:57560 Accepted
+[Tue Jul 14 08:55:34 2026] 127.0.0.1:57560 [200]: GET /src/login.ts
+[Tue Jul 14 08:55:34 2026] 127.0.0.1:57560 Closing
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:64022 Accepted
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:64022 [200]: GET /login.html
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:64278 Accepted
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:64022 Closing
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:64278 [200]: GET /style.css?v=14
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:55007 Accepted
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:55007 [200]: GET /dist/login.js
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:64278 Closing
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:55007 Closing
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:52253 Accepted
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:52253 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:52253 Closing
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:52128 Accepted
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:52128 [200]: GET /dist/login.js.map
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:52128 Closing
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:63410 Accepted
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:63410 [200]: GET /src/login.ts
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:63410 Closing
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:58720 Accepted
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:58720 [200]: GET /login.html
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:58720 Closing
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:60637 Accepted
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:60637 [200]: GET /style.css?v=14
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:53268 Accepted
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:53268 [200]: GET /dist/login.js
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:60637 Closing
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:53268 Closing
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:53234 Accepted
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:53234 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:53234 Closing
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:62294 Accepted
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:62294 [200]: GET /dist/login.js.map
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:62294 Closing
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:50830 Accepted
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:50830 [200]: GET /src/login.ts
+[Tue Jul 14 08:55:35 2026] 127.0.0.1:50830 Closing
+[Tue Jul 14 08:55:36 2026] 127.0.0.1:52182 Accepted
+[Tue Jul 14 08:55:36 2026] 127.0.0.1:52182 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:55:36 2026] 127.0.0.1:52182 Closing
+[Tue Jul 14 08:55:36 2026] 127.0.0.1:54766 Accepted
+[Tue Jul 14 08:55:36 2026] 127.0.0.1:54766 [200]: GET /style.css?v=10
+[Tue Jul 14 08:55:36 2026] 127.0.0.1:54766 Closing
+[Tue Jul 14 08:55:36 2026] 127.0.0.1:57529 Accepted
+[Tue Jul 14 08:55:36 2026] 127.0.0.1:57529 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:55:36 2026] 127.0.0.1:57529 Closing
+[Tue Jul 14 08:55:36 2026] 127.0.0.1:52512 Accepted
+[Tue Jul 14 08:55:36 2026] 127.0.0.1:52512 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:55:36 2026] 127.0.0.1:52512 Closing
+[Tue Jul 14 08:55:37 2026] 127.0.0.1:65477 Accepted
+[Tue Jul 14 08:55:37 2026] 127.0.0.1:65477 [200]: GET /src/script.ts
+[Tue Jul 14 08:55:37 2026] 127.0.0.1:65477 Closing
+[Tue Jul 14 08:55:38 2026] 127.0.0.1:49874 Accepted
+[Tue Jul 14 08:55:38 2026] 127.0.0.1:49874 [200]: GET /index.html?reload=10
+[Tue Jul 14 08:55:38 2026] 127.0.0.1:49874 Closing
+[Tue Jul 14 08:55:38 2026] 127.0.0.1:63899 Accepted
+[Tue Jul 14 08:55:38 2026] 127.0.0.1:63899 [200]: GET /style.css?v=14
+[Tue Jul 14 08:55:38 2026] 127.0.0.1:56643 Accepted
+[Tue Jul 14 08:55:38 2026] 127.0.0.1:62814 Accepted
+[Tue Jul 14 08:55:38 2026] 127.0.0.1:56643 [200]: GET /logo.webp
+[Tue Jul 14 08:55:38 2026] 127.0.0.1:62814 [200]: GET /dist/script.js?v=3
+[Tue Jul 14 08:55:38 2026] 127.0.0.1:63899 Closing
+[Tue Jul 14 08:55:38 2026] 127.0.0.1:56643 Closing
+[Tue Jul 14 08:55:38 2026] 127.0.0.1:62814 Closing
+[Tue Jul 14 08:55:38 2026] 127.0.0.1:53050 Accepted
+[Tue Jul 14 08:55:38 2026] 127.0.0.1:53050 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:55:38 2026] 127.0.0.1:53050 Closing
+[Tue Jul 14 08:55:38 2026] 127.0.0.1:54567 Accepted
+[Tue Jul 14 08:55:38 2026] 127.0.0.1:54567 [200]: GET /api/leaderboard.php
+[Tue Jul 14 08:55:38 2026] 127.0.0.1:54567 Closing
+[Tue Jul 14 08:55:38 2026] 127.0.0.1:65418 Accepted
+[Tue Jul 14 08:55:38 2026] 127.0.0.1:65418 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:55:38 2026] 127.0.0.1:65418 Closing
+[Tue Jul 14 08:55:38 2026] 127.0.0.1:51695 Accepted
+[Tue Jul 14 08:55:38 2026] 127.0.0.1:51695 [200]: GET /src/script.ts
+[Tue Jul 14 08:55:38 2026] 127.0.0.1:51695 Closing
+[Tue Jul 14 08:55:39 2026] 127.0.0.1:51562 Accepted
+[Tue Jul 14 08:55:39 2026] 127.0.0.1:51562 [200]: GET /index.html?reload=10
+[Tue Jul 14 08:55:39 2026] 127.0.0.1:51562 Closing
+[Tue Jul 14 08:55:39 2026] 127.0.0.1:49761 Accepted
+[Tue Jul 14 08:55:39 2026] 127.0.0.1:49761 [200]: GET /style.css?v=14
+[Tue Jul 14 08:55:39 2026] 127.0.0.1:53190 Accepted
+[Tue Jul 14 08:55:39 2026] 127.0.0.1:49868 Accepted
+[Tue Jul 14 08:55:39 2026] 127.0.0.1:53190 [200]: GET /logo.webp
+[Tue Jul 14 08:55:39 2026] 127.0.0.1:49868 [200]: GET /dist/script.js?v=3
+[Tue Jul 14 08:55:39 2026] 127.0.0.1:49761 Closing
+[Tue Jul 14 08:55:39 2026] 127.0.0.1:53190 Closing
+[Tue Jul 14 08:55:39 2026] 127.0.0.1:49868 Closing
+[Tue Jul 14 08:55:39 2026] 127.0.0.1:65481 Accepted
+[Tue Jul 14 08:55:39 2026] 127.0.0.1:65481 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:55:39 2026] 127.0.0.1:65481 Closing
+[Tue Jul 14 08:55:39 2026] 127.0.0.1:55786 Accepted
+[Tue Jul 14 08:55:39 2026] 127.0.0.1:55786 [200]: GET /api/leaderboard.php
+[Tue Jul 14 08:55:39 2026] 127.0.0.1:55786 Closing
+[Tue Jul 14 08:55:40 2026] 127.0.0.1:61683 Accepted
+[Tue Jul 14 08:55:40 2026] 127.0.0.1:61683 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:55:40 2026] 127.0.0.1:61683 Closing
+[Tue Jul 14 08:55:40 2026] 127.0.0.1:58062 Accepted
+[Tue Jul 14 08:55:40 2026] 127.0.0.1:58062 [200]: GET /src/script.ts
+[Tue Jul 14 08:55:40 2026] 127.0.0.1:58062 Closing
+[Tue Jul 14 08:55:46 2026] 127.0.0.1:57519 Accepted
+[Tue Jul 14 08:55:46 2026] 127.0.0.1:57519 [200]: GET /login.html
+[Tue Jul 14 08:55:46 2026] 127.0.0.1:57519 Closing
+[Tue Jul 14 08:55:46 2026] 127.0.0.1:50337 Accepted
+[Tue Jul 14 08:55:46 2026] 127.0.0.1:51475 Accepted
+[Tue Jul 14 08:55:46 2026] 127.0.0.1:50337 [200]: GET /style.css?v=14
+[Tue Jul 14 08:55:46 2026] 127.0.0.1:51475 [200]: GET /dist/login.js
+[Tue Jul 14 08:55:46 2026] 127.0.0.1:50337 Closing
+[Tue Jul 14 08:55:46 2026] 127.0.0.1:51475 Closing
+[Tue Jul 14 08:55:46 2026] 127.0.0.1:59175 Accepted
+[Tue Jul 14 08:55:46 2026] 127.0.0.1:59175 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:55:46 2026] 127.0.0.1:59175 Closing
+[Tue Jul 14 08:55:46 2026] 127.0.0.1:60701 Accepted
+[Tue Jul 14 08:55:46 2026] 127.0.0.1:60701 [200]: GET /dist/login.js.map
+[Tue Jul 14 08:55:46 2026] 127.0.0.1:60701 Closing
+[Tue Jul 14 08:55:46 2026] 127.0.0.1:60245 Accepted
+[Tue Jul 14 08:55:46 2026] 127.0.0.1:60245 [200]: GET /src/login.ts
+[Tue Jul 14 08:55:46 2026] 127.0.0.1:60245 Closing
+[Tue Jul 14 08:55:52 2026] 127.0.0.1:64120 Accepted
+[Tue Jul 14 08:55:52 2026] 127.0.0.1:64120 [200]: POST /api/login.php
+[Tue Jul 14 08:55:52 2026] 127.0.0.1:64120 Closing
+[Tue Jul 14 08:55:52 2026] 127.0.0.1:49712 Accepted
+[Tue Jul 14 08:55:52 2026] 127.0.0.1:49712 [200]: GET /index.html
+[Tue Jul 14 08:55:52 2026] 127.0.0.1:49712 Closing
+[Tue Jul 14 08:55:52 2026] 127.0.0.1:64088 Accepted
+[Tue Jul 14 08:55:52 2026] 127.0.0.1:61914 Accepted
+[Tue Jul 14 08:55:52 2026] 127.0.0.1:64088 [200]: GET /style.css?v=14
+[Tue Jul 14 08:55:52 2026] 127.0.0.1:51783 Accepted
+[Tue Jul 14 08:55:52 2026] 127.0.0.1:61914 [200]: GET /logo.webp
+[Tue Jul 14 08:55:52 2026] 127.0.0.1:51783 [200]: GET /dist/script.js?v=3
+[Tue Jul 14 08:55:52 2026] 127.0.0.1:64088 Closing
+[Tue Jul 14 08:55:52 2026] 127.0.0.1:61914 Closing
+[Tue Jul 14 08:55:52 2026] 127.0.0.1:51783 Closing
+[Tue Jul 14 08:55:52 2026] 127.0.0.1:55775 Accepted
+[Tue Jul 14 08:55:52 2026] 127.0.0.1:55775 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:55:52 2026] 127.0.0.1:55775 Closing
+[Tue Jul 14 08:55:52 2026] 127.0.0.1:59846 Accepted
+[Tue Jul 14 08:55:52 2026] 127.0.0.1:59846 [200]: GET /api/leaderboard.php
+[Tue Jul 14 08:55:52 2026] 127.0.0.1:59846 Closing
+[Tue Jul 14 08:55:52 2026] 127.0.0.1:57360 Accepted
+[Tue Jul 14 08:55:52 2026] 127.0.0.1:57360 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:55:52 2026] 127.0.0.1:57360 Closing
+[Tue Jul 14 08:55:53 2026] 127.0.0.1:49812 Accepted
+[Tue Jul 14 08:55:53 2026] 127.0.0.1:49812 [200]: GET /src/script.ts
+[Tue Jul 14 08:55:53 2026] 127.0.0.1:49812 Closing
+[Tue Jul 14 08:55:54 2026] 127.0.0.1:56277 Accepted
+[Tue Jul 14 08:55:54 2026] 127.0.0.1:56277 [200]: GET /index.html
+[Tue Jul 14 08:55:54 2026] 127.0.0.1:54783 Accepted
+[Tue Jul 14 08:55:54 2026] 127.0.0.1:56277 Closing
+[Tue Jul 14 08:55:54 2026] 127.0.0.1:54783 [200]: GET /style.css?v=14
+[Tue Jul 14 08:55:54 2026] 127.0.0.1:52279 Accepted
+[Tue Jul 14 08:55:54 2026] 127.0.0.1:54783 Closing
+[Tue Jul 14 08:55:54 2026] 127.0.0.1:49669 Accepted
+[Tue Jul 14 08:55:54 2026] 127.0.0.1:52279 [200]: GET /logo.webp
+[Tue Jul 14 08:55:54 2026] 127.0.0.1:49669 [200]: GET /dist/script.js?v=3
+[Tue Jul 14 08:55:54 2026] 127.0.0.1:52279 Closing
+[Tue Jul 14 08:55:54 2026] 127.0.0.1:49669 Closing
+[Tue Jul 14 08:55:54 2026] 127.0.0.1:60766 Accepted
+[Tue Jul 14 08:55:54 2026] 127.0.0.1:60766 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:55:54 2026] 127.0.0.1:60766 Closing
+[Tue Jul 14 08:55:54 2026] 127.0.0.1:50738 Accepted
+[Tue Jul 14 08:55:54 2026] 127.0.0.1:50738 [200]: GET /api/leaderboard.php
+[Tue Jul 14 08:55:54 2026] 127.0.0.1:50738 Closing
+[Tue Jul 14 08:55:54 2026] 127.0.0.1:52528 Accepted
+[Tue Jul 14 08:55:54 2026] 127.0.0.1:52528 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:55:54 2026] 127.0.0.1:52528 Closing
+[Tue Jul 14 08:55:55 2026] 127.0.0.1:51314 Accepted
+[Tue Jul 14 08:55:55 2026] 127.0.0.1:51314 [200]: GET /src/script.ts
+[Tue Jul 14 08:55:55 2026] 127.0.0.1:51314 Closing
+[Tue Jul 14 08:56:15 2026] 127.0.0.1:60129 Accepted
+[Tue Jul 14 08:56:15 2026] 127.0.0.1:60129 [200]: GET /index.html
+[Tue Jul 14 08:56:15 2026] 127.0.0.1:60129 Closing
+[Tue Jul 14 08:56:15 2026] 127.0.0.1:55469 Accepted
+[Tue Jul 14 08:56:15 2026] 127.0.0.1:65218 Accepted
+[Tue Jul 14 08:56:15 2026] 127.0.0.1:55469 [200]: GET /style.css?v=14
+[Tue Jul 14 08:56:15 2026] 127.0.0.1:55408 Accepted
+[Tue Jul 14 08:56:15 2026] 127.0.0.1:65218 [200]: GET /logo.webp
+[Tue Jul 14 08:56:15 2026] 127.0.0.1:55408 [200]: GET /dist/script.js?v=3
+[Tue Jul 14 08:56:15 2026] 127.0.0.1:55469 Closing
+[Tue Jul 14 08:56:15 2026] 127.0.0.1:65218 Closing
+[Tue Jul 14 08:56:15 2026] 127.0.0.1:55408 Closing
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:59590 Accepted
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:59590 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:59590 Closing
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:59281 Accepted
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:59281 [200]: GET /api/leaderboard.php
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:59281 Closing
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:56477 Accepted
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:56477 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:56477 Closing
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:63055 Accepted
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:63055 [200]: GET /src/script.ts
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:63055 Closing
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:57961 Accepted
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:57961 [200]: GET /index.html
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:58265 Accepted
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:57961 Closing
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:58265 [200]: GET /style.css?v=14
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:54660 Accepted
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:65199 Accepted
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:54660 [200]: GET /logo.webp
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:65199 [200]: GET /dist/script.js?v=3
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:58265 Closing
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:54660 Closing
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:65199 Closing
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:62430 Accepted
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:62430 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:62430 Closing
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:63115 Accepted
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:63115 [200]: GET /api/leaderboard.php
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:63115 Closing
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:56072 Accepted
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:56072 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:56:16 2026] 127.0.0.1:56072 Closing
+[Tue Jul 14 08:56:17 2026] 127.0.0.1:52082 Accepted
+[Tue Jul 14 08:56:17 2026] 127.0.0.1:52082 [200]: GET /src/script.ts
+[Tue Jul 14 08:56:17 2026] 127.0.0.1:52082 Closing
+[Tue Jul 14 08:56:20 2026] 127.0.0.1:50973 Accepted
+[Tue Jul 14 08:56:20 2026] 127.0.0.1:50973 [200]: GET /achievements.html
+[Tue Jul 14 08:56:20 2026] 127.0.0.1:50973 Closing
+[Tue Jul 14 08:56:20 2026] 127.0.0.1:54822 Accepted
+[Tue Jul 14 08:56:20 2026] 127.0.0.1:54822 [200]: GET /style.css?v=14
+[Tue Jul 14 08:56:20 2026] 127.0.0.1:49872 Accepted
+[Tue Jul 14 08:56:20 2026] 127.0.0.1:49872 [200]: GET /dist/achievements.js
+[Tue Jul 14 08:56:20 2026] 127.0.0.1:54822 Closing
+[Tue Jul 14 08:56:20 2026] 127.0.0.1:49872 Closing
+[Tue Jul 14 08:56:20 2026] 127.0.0.1:58651 Accepted
+[Tue Jul 14 08:56:20 2026] 127.0.0.1:58651 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:56:20 2026] 127.0.0.1:58651 Closing
+[Tue Jul 14 08:56:20 2026] 127.0.0.1:49669 Accepted
+[Tue Jul 14 08:56:20 2026] 127.0.0.1:49669 [200]: GET /dist/achievements.js.map
+[Tue Jul 14 08:56:20 2026] 127.0.0.1:49669 Closing
+[Tue Jul 14 08:56:20 2026] 127.0.0.1:59371 Accepted
+[Tue Jul 14 08:56:20 2026] 127.0.0.1:59371 [200]: GET /src/achievements.ts
+[Tue Jul 14 08:56:20 2026] 127.0.0.1:59371 Closing
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:59497 Accepted
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:59497 [200]: GET /style.css?v=14
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:59381 Accepted
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:59381 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:59497 Closing
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:59381 Closing
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:61214 Accepted
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:61214 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:58324 Accepted
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:61214 Closing
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:58324 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:58324 Closing
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:55409 Accepted
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:55409 [200]: GET /src/script.ts
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:55409 Closing
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:59894 Accepted
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:59894 [200]: GET /login.html
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:59596 Accepted
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:59894 Closing
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:59596 [200]: GET /style.css?v=14
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:49669 Accepted
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:49669 [200]: GET /dist/login.js
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:59596 Closing
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:49669 Closing
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:65357 Accepted
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:65357 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:65357 Closing
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:63346 Accepted
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:63346 [200]: GET /dist/login.js.map
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:63346 Closing
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:63970 Accepted
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:63970 [200]: GET /src/login.ts
+[Tue Jul 14 08:56:22 2026] 127.0.0.1:63970 Closing
+[Tue Jul 14 08:56:24 2026] 127.0.0.1:61166 Accepted
+[Tue Jul 14 08:56:24 2026] 127.0.0.1:61166 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:56:24 2026] 127.0.0.1:61166 Closing
+[Tue Jul 14 08:56:24 2026] 127.0.0.1:56808 Accepted
+[Tue Jul 14 08:56:24 2026] 127.0.0.1:56808 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:56:24 2026] 127.0.0.1:56808 Closing
+[Tue Jul 14 08:56:25 2026] 127.0.0.1:64916 Accepted
+[Tue Jul 14 08:56:25 2026] 127.0.0.1:64916 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:56:25 2026] 127.0.0.1:64916 Closing
+[Tue Jul 14 08:56:25 2026] 127.0.0.1:64860 Accepted
+[Tue Jul 14 08:56:25 2026] 127.0.0.1:64860 [200]: GET /src/script.ts
+[Tue Jul 14 08:56:25 2026] 127.0.0.1:64860 Closing
+[Tue Jul 14 08:58:57 2026] 127.0.0.1:63564 Accepted
+[Tue Jul 14 08:58:57 2026] 127.0.0.1:63564 [200]: GET /index.html
+[Tue Jul 14 08:58:57 2026] 127.0.0.1:63564 Closing
+[Tue Jul 14 08:58:57 2026] 127.0.0.1:63023 Accepted
+[Tue Jul 14 08:58:57 2026] 127.0.0.1:63023 [200]: GET /style.css?v=15
+[Tue Jul 14 08:58:57 2026] 127.0.0.1:53338 Accepted
+[Tue Jul 14 08:58:57 2026] 127.0.0.1:63023 Closing
+[Tue Jul 14 08:58:57 2026] 127.0.0.1:57666 Accepted
+[Tue Jul 14 08:58:57 2026] 127.0.0.1:53338 [200]: GET /logo.webp
+[Tue Jul 14 08:58:57 2026] 127.0.0.1:57666 [200]: GET /dist/script.js?v=3
+[Tue Jul 14 08:58:57 2026] 127.0.0.1:53338 Closing
+[Tue Jul 14 08:58:57 2026] 127.0.0.1:57666 Closing
+[Tue Jul 14 08:58:57 2026] 127.0.0.1:49669 Accepted
+[Tue Jul 14 08:58:57 2026] 127.0.0.1:49669 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 08:58:57 2026] 127.0.0.1:49669 Closing
+[Tue Jul 14 08:58:57 2026] 127.0.0.1:56211 Accepted
+[Tue Jul 14 08:58:57 2026] 127.0.0.1:56211 [200]: GET /api/leaderboard.php
+[Tue Jul 14 08:58:57 2026] 127.0.0.1:56211 Closing
+[Tue Jul 14 08:58:57 2026] 127.0.0.1:65048 Accepted
+[Tue Jul 14 08:58:57 2026] 127.0.0.1:65048 [200]: GET /dist/script.js.map
+[Tue Jul 14 08:58:57 2026] 127.0.0.1:65048 Closing
+[Tue Jul 14 08:58:57 2026] 127.0.0.1:58143 Accepted
+[Tue Jul 14 08:58:57 2026] 127.0.0.1:58143 [200]: GET /src/script.ts
+[Tue Jul 14 08:58:57 2026] 127.0.0.1:58143 Closing
+[Tue Jul 14 09:00:02 2026] 127.0.0.1:61733 Accepted
+[Tue Jul 14 09:00:02 2026] 127.0.0.1:61733 [200]: GET /login.html
+[Tue Jul 14 09:00:02 2026] 127.0.0.1:61733 Closing
+[Tue Jul 14 09:00:02 2026] 127.0.0.1:54829 Accepted
+[Tue Jul 14 09:00:02 2026] 127.0.0.1:55035 Accepted
+[Tue Jul 14 09:00:02 2026] 127.0.0.1:54829 [200]: GET /style.css?v=15
+[Tue Jul 14 09:00:02 2026] 127.0.0.1:55035 [200]: GET /dist/login.js
+[Tue Jul 14 09:00:02 2026] 127.0.0.1:54829 Closing
+[Tue Jul 14 09:00:02 2026] 127.0.0.1:55035 Closing
+[Tue Jul 14 09:00:02 2026] 127.0.0.1:60242 Accepted
+[Tue Jul 14 09:00:02 2026] 127.0.0.1:60242 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 09:00:02 2026] 127.0.0.1:60242 Closing
+[Tue Jul 14 09:00:02 2026] 127.0.0.1:57192 Accepted
+[Tue Jul 14 09:00:02 2026] 127.0.0.1:57192 [200]: GET /dist/login.js.map
+[Tue Jul 14 09:00:02 2026] 127.0.0.1:57192 Closing
+[Tue Jul 14 09:00:02 2026] 127.0.0.1:50239 Accepted
+[Tue Jul 14 09:00:02 2026] 127.0.0.1:50239 [200]: GET /src/login.ts
+[Tue Jul 14 09:00:02 2026] 127.0.0.1:50239 Closing
+[Tue Jul 14 09:00:04 2026] 127.0.0.1:56281 Accepted
+[Tue Jul 14 09:00:04 2026] 127.0.0.1:56281 [200]: GET /style.css?v=15
+[Tue Jul 14 09:00:04 2026] 127.0.0.1:56281 Closing
+[Tue Jul 14 09:00:04 2026] 127.0.0.1:50189 Accepted
+[Tue Jul 14 09:00:04 2026] 127.0.0.1:50189 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 09:00:04 2026] 127.0.0.1:50189 Closing
+[Tue Jul 14 09:00:04 2026] 127.0.0.1:60511 Accepted
+[Tue Jul 14 09:00:04 2026] 127.0.0.1:60511 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 09:00:04 2026] 127.0.0.1:60511 Closing
+[Tue Jul 14 09:00:04 2026] 127.0.0.1:64332 Accepted
+[Tue Jul 14 09:00:04 2026] 127.0.0.1:64332 [200]: GET /dist/script.js.map
+[Tue Jul 14 09:00:04 2026] 127.0.0.1:64332 Closing
+[Tue Jul 14 09:00:05 2026] 127.0.0.1:58666 Accepted
+[Tue Jul 14 09:00:05 2026] 127.0.0.1:58666 [200]: GET /src/script.ts
+[Tue Jul 14 09:00:05 2026] 127.0.0.1:58666 Closing
+[Tue Jul 14 09:00:05 2026] 127.0.0.1:60000 Accepted
+[Tue Jul 14 09:00:05 2026] 127.0.0.1:60000 [200]: GET /sign-in.html
+[Tue Jul 14 09:00:05 2026] 127.0.0.1:60000 Closing
+[Tue Jul 14 09:00:06 2026] 127.0.0.1:59333 Accepted
+[Tue Jul 14 09:00:06 2026] 127.0.0.1:60439 Accepted
+[Tue Jul 14 09:00:06 2026] 127.0.0.1:59333 [200]: GET /style.css?v=15
+[Tue Jul 14 09:00:06 2026] 127.0.0.1:60439 [200]: GET /dist/sign-in.js
+[Tue Jul 14 09:00:06 2026] 127.0.0.1:59333 Closing
+[Tue Jul 14 09:00:06 2026] 127.0.0.1:60439 Closing
+[Tue Jul 14 09:00:06 2026] 127.0.0.1:51262 Accepted
+[Tue Jul 14 09:00:06 2026] 127.0.0.1:51262 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 09:00:06 2026] 127.0.0.1:51262 Closing
+[Tue Jul 14 09:00:06 2026] 127.0.0.1:57051 Accepted
+[Tue Jul 14 09:00:06 2026] 127.0.0.1:57051 [200]: GET /dist/sign-in.js.map
+[Tue Jul 14 09:00:06 2026] 127.0.0.1:57051 Closing
+[Tue Jul 14 09:00:06 2026] 127.0.0.1:62566 Accepted
+[Tue Jul 14 09:00:06 2026] 127.0.0.1:62566 [200]: GET /src/sign-in.ts
+[Tue Jul 14 09:00:06 2026] 127.0.0.1:62566 Closing
+[Tue Jul 14 09:00:08 2026] 127.0.0.1:59738 Accepted
+[Tue Jul 14 09:00:08 2026] 127.0.0.1:59738 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 09:00:08 2026] 127.0.0.1:59738 Closing
+[Tue Jul 14 09:00:08 2026] 127.0.0.1:53496 Accepted
+[Tue Jul 14 09:00:08 2026] 127.0.0.1:53496 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 09:00:08 2026] 127.0.0.1:53496 Closing
+[Tue Jul 14 09:00:08 2026] 127.0.0.1:57454 Accepted
+[Tue Jul 14 09:00:08 2026] 127.0.0.1:57454 [200]: GET /dist/script.js.map
+[Tue Jul 14 09:00:08 2026] 127.0.0.1:57454 Closing
+[Tue Jul 14 09:00:08 2026] 127.0.0.1:49389 Accepted
+[Tue Jul 14 09:00:08 2026] 127.0.0.1:49389 [200]: GET /src/script.ts
+[Tue Jul 14 09:00:08 2026] 127.0.0.1:49389 Closing
+[Tue Jul 14 09:00:09 2026] 127.0.0.1:55717 Accepted
+[Tue Jul 14 09:00:09 2026] 127.0.0.1:55717 [200]: GET /achievements.html
+[Tue Jul 14 09:00:09 2026] 127.0.0.1:55717 Closing
+[Tue Jul 14 09:00:09 2026] 127.0.0.1:63843 Accepted
+[Tue Jul 14 09:00:09 2026] 127.0.0.1:57622 Accepted
+[Tue Jul 14 09:00:09 2026] 127.0.0.1:63843 [200]: GET /style.css?v=15
+[Tue Jul 14 09:00:09 2026] 127.0.0.1:57622 [200]: GET /dist/achievements.js
+[Tue Jul 14 09:00:09 2026] 127.0.0.1:63843 Closing
+[Tue Jul 14 09:00:09 2026] 127.0.0.1:57622 Closing
+[Tue Jul 14 09:00:09 2026] 127.0.0.1:57474 Accepted
+[Tue Jul 14 09:00:09 2026] 127.0.0.1:57474 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 09:00:09 2026] 127.0.0.1:57474 Closing
+[Tue Jul 14 09:00:09 2026] 127.0.0.1:58873 Accepted
+[Tue Jul 14 09:00:09 2026] 127.0.0.1:58873 [200]: GET /dist/achievements.js.map
+[Tue Jul 14 09:00:09 2026] 127.0.0.1:58873 Closing
+[Tue Jul 14 09:00:09 2026] 127.0.0.1:57903 Accepted
+[Tue Jul 14 09:00:09 2026] 127.0.0.1:57903 [200]: GET /src/achievements.ts
+[Tue Jul 14 09:00:09 2026] 127.0.0.1:57903 Closing
+[Tue Jul 14 09:00:10 2026] 127.0.0.1:62835 Accepted
+[Tue Jul 14 09:00:10 2026] 127.0.0.1:62835 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 09:00:10 2026] 127.0.0.1:62835 Closing
+[Tue Jul 14 09:00:10 2026] 127.0.0.1:51771 Accepted
+[Tue Jul 14 09:00:10 2026] 127.0.0.1:51771 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 09:00:10 2026] 127.0.0.1:51771 Closing
+[Tue Jul 14 09:00:10 2026] 127.0.0.1:53183 Accepted
+[Tue Jul 14 09:00:10 2026] 127.0.0.1:53183 [200]: GET /dist/script.js.map
+[Tue Jul 14 09:00:10 2026] 127.0.0.1:53183 Closing
+[Tue Jul 14 09:00:10 2026] 127.0.0.1:59304 Accepted
+[Tue Jul 14 09:00:10 2026] 127.0.0.1:59304 [200]: GET /src/script.ts
+[Tue Jul 14 09:00:10 2026] 127.0.0.1:59304 Closing
+[Tue Jul 14 09:00:11 2026] 127.0.0.1:56524 Accepted
+[Tue Jul 14 09:00:11 2026] 127.0.0.1:56524 [200]: GET /quest.html
+[Tue Jul 14 09:00:11 2026] 127.0.0.1:63927 Accepted
+[Tue Jul 14 09:00:11 2026] 127.0.0.1:56524 Closing
+[Tue Jul 14 09:00:11 2026] 127.0.0.1:63927 [200]: GET /style.css?v=15
+[Tue Jul 14 09:00:11 2026] 127.0.0.1:56208 Accepted
+[Tue Jul 14 09:00:11 2026] 127.0.0.1:56208 [200]: GET /dist/quest.js
+[Tue Jul 14 09:00:11 2026] 127.0.0.1:63927 Closing
+[Tue Jul 14 09:00:11 2026] 127.0.0.1:56208 Closing
+[Tue Jul 14 09:00:11 2026] 127.0.0.1:55984 Accepted
+[Tue Jul 14 09:00:11 2026] 127.0.0.1:55984 [200]: GET /api/quests.php
+[Tue Jul 14 09:00:11 2026] 127.0.0.1:55984 Closing
+[Tue Jul 14 09:00:11 2026] 127.0.0.1:57902 Accepted
+[Tue Jul 14 09:00:11 2026] 127.0.0.1:57902 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 09:00:11 2026] 127.0.0.1:57902 Closing
+[Tue Jul 14 09:00:11 2026] 127.0.0.1:54556 Accepted
+[Tue Jul 14 09:00:11 2026] 127.0.0.1:54556 [200]: GET /dist/quest.js.map
+[Tue Jul 14 09:00:11 2026] 127.0.0.1:54556 Closing
+[Tue Jul 14 09:00:11 2026] 127.0.0.1:59554 Accepted
+[Tue Jul 14 09:00:11 2026] 127.0.0.1:59554 [200]: GET /src/quest.ts
+[Tue Jul 14 09:00:11 2026] 127.0.0.1:59554 Closing
+[Tue Jul 14 09:00:13 2026] 127.0.0.1:55620 Accepted
+[Tue Jul 14 09:00:13 2026] 127.0.0.1:55620 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 09:00:13 2026] 127.0.0.1:55620 Closing
+[Tue Jul 14 09:00:13 2026] 127.0.0.1:58272 Accepted
+[Tue Jul 14 09:00:13 2026] 127.0.0.1:58272 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 09:00:13 2026] 127.0.0.1:58272 Closing
+[Tue Jul 14 09:00:13 2026] 127.0.0.1:58686 Accepted
+[Tue Jul 14 09:00:14 2026] 127.0.0.1:58686 [200]: GET /dist/script.js.map
+[Tue Jul 14 09:00:14 2026] 127.0.0.1:58686 Closing
+[Tue Jul 14 09:00:14 2026] 127.0.0.1:50445 Accepted
+[Tue Jul 14 09:00:14 2026] 127.0.0.1:50445 [200]: GET /src/script.ts
+[Tue Jul 14 09:00:14 2026] 127.0.0.1:50445 Closing
+[Tue Jul 14 09:00:14 2026] 127.0.0.1:56276 Accepted
+[Tue Jul 14 09:00:14 2026] 127.0.0.1:56276 [200]: GET /extra-points.html
+[Tue Jul 14 09:00:14 2026] 127.0.0.1:49180 Accepted
+[Tue Jul 14 09:00:14 2026] 127.0.0.1:56276 Closing
+[Tue Jul 14 09:00:14 2026] 127.0.0.1:49180 [200]: GET /style.css?v=15
+[Tue Jul 14 09:00:14 2026] 127.0.0.1:64329 Accepted
+[Tue Jul 14 09:00:14 2026] 127.0.0.1:64329 [200]: GET /dist/extra-points.js
+[Tue Jul 14 09:00:14 2026] 127.0.0.1:49180 Closing
+[Tue Jul 14 09:00:14 2026] 127.0.0.1:64329 Closing
+[Tue Jul 14 09:00:14 2026] 127.0.0.1:62148 Accepted
+[Tue Jul 14 09:00:14 2026] 127.0.0.1:62148 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 09:00:14 2026] 127.0.0.1:62148 Closing
+[Tue Jul 14 09:00:14 2026] 127.0.0.1:64029 Accepted
+[Tue Jul 14 09:00:14 2026] 127.0.0.1:64029 [200]: GET /dist/extra-points.js.map
+[Tue Jul 14 09:00:14 2026] 127.0.0.1:64029 Closing
+[Tue Jul 14 09:00:14 2026] 127.0.0.1:56804 Accepted
+[Tue Jul 14 09:00:14 2026] 127.0.0.1:56804 [200]: GET /src/extra-points.ts
+[Tue Jul 14 09:00:14 2026] 127.0.0.1:56804 Closing
+[Tue Jul 14 09:00:16 2026] 127.0.0.1:55946 Accepted
+[Tue Jul 14 09:00:16 2026] 127.0.0.1:55946 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 09:00:16 2026] 127.0.0.1:55946 Closing
+[Tue Jul 14 09:00:16 2026] 127.0.0.1:59290 Accepted
+[Tue Jul 14 09:00:16 2026] 127.0.0.1:59290 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Tue Jul 14 09:00:16 2026] 127.0.0.1:59290 Closing
+[Tue Jul 14 09:00:17 2026] 127.0.0.1:49709 Accepted
+[Tue Jul 14 09:00:17 2026] 127.0.0.1:49709 [200]: GET /dist/script.js.map
+[Tue Jul 14 09:00:17 2026] 127.0.0.1:49709 Closing
+[Tue Jul 14 09:00:17 2026] 127.0.0.1:52200 Accepted
+[Tue Jul 14 09:00:17 2026] 127.0.0.1:52200 [200]: GET /src/script.ts
+[Tue Jul 14 09:00:17 2026] 127.0.0.1:52200 Closing

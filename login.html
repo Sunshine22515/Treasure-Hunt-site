@@ -4,19 +4,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login - Treasure Hunt</title>
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="style.css?v=15" />
 </head>
 <body>
 
-    <div class="pagina-secundaria">
+    <div class="secondary-page">
         <h1>Login</h1>
         <form id="login-form">
-            <input type="text" id="username" placeholder="Username" required>
-            <button type="submit">Entrar</button>
+            <input type="text" id="username" name="username" placeholder="Username" autocomplete="username" required>
+            <input type="password" id="password" name="password" placeholder="Password" autocomplete="current-password" required>
+            <button type="submit">Log in</button>
         </form>
-        <a href="index.html">← Voltar ao mapa</a>
+        <p id="form-message" class="form-message"></p>
+        <p class="auth-switch">No account yet? <a href="sign-in.html">Create one</a></p>
+        <a href="index.html">Back to map</a>
     </div>
 
-    <script src="dist/login.js"></script>
+    <script type="module" src="dist/login.js"></script>
 </body>
 </html>
